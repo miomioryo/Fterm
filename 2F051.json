@@ -1,0 +1,367 @@
+{
+  "overall_code": "2F051",
+  "tree": [
+    {
+      "code": "AA00",
+      "label": "用途",
+      "depth": 0,
+      "children": [
+        {
+          "code": "AA01",
+          "label": "乗物用",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AA02",
+              "label": "レール、路面に設けたもの",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AA04",
+          "label": "内燃機関",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AA06",
+          "label": "土木、建築",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AA07",
+              "label": "コンクリート",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AA09",
+          "label": "クレーン",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AA10",
+          "label": "マニュピレータ",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AA11",
+          "label": "工作機械",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AA12",
+              "label": "プレス",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AA13",
+              "label": "圧延",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AA15",
+          "label": "印刷機",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AA16",
+          "label": "繊維、繊維機械",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AA17",
+          "label": "医療用",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AA18",
+          "label": "衣服、履物",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AA19",
+          "label": "運動具",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AA20",
+          "label": "武器",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AA21",
+          "label": "電気部品、電気機器",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AA22",
+              "label": "開閉器",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AA23",
+              "label": "ＡＶ機器",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AA24",
+              "label": "電動機",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AB00",
+      "label": "力の検出手段",
+      "depth": 0,
+      "children": [
+        {
+          "code": "AB01",
+          "label": "機械的",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AB02",
+          "label": "流体的",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AB03",
+          "label": "光学的",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AB04",
+          "label": "音響的",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AB05",
+          "label": "磁気的",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AB06",
+          "label": "電気的",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AB07",
+              "label": "感圧導電体",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AB08",
+              "label": "圧電素子",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AB09",
+              "label": "歪ゲージ、ロードセル",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AB10",
+                  "label": "半導体歪ゲージ",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AC00",
+      "label": "電気回路",
+      "depth": 0,
+      "children": [
+        {
+          "code": "AC01",
+          "label": "検出部",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AC03",
+          "label": "補償用",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AC04",
+              "label": "温度",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AC05",
+              "label": "零点",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AC07",
+          "label": "設定値との比較、警報",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AC09",
+          "label": "表示用",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "BA00",
+      "label": "測定される力の形態",
+      "depth": 0,
+      "children": [
+        {
+          "code": "BA01",
+          "label": "流体より受ける力",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BA03",
+          "label": "トルクを測定するもの",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BA05",
+          "label": "把持力（図面）",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BA07",
+          "label": "加圧力、接触圧（図面）",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BA08",
+          "label": "面圧（図面）",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "CA00",
+      "label": "張力の検出形態",
+      "depth": 0,
+      "children": [
+        {
+          "code": "CA01",
+          "label": "分力検出（図面）",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CA03",
+          "label": "巻取、くり出しローラのトルク（図面）",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "DA00",
+      "label": "測定できる力成分の数",
+      "depth": 0,
+      "children": [
+        {
+          "code": "DA01",
+          "label": "１分力",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DA02",
+          "label": "２分力",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DA03",
+          "label": "３分力",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DA05",
+          "label": "力成分なし",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "DB00",
+      "label": "測定できるモーメント成分の数",
+      "depth": 0,
+      "children": [
+        {
+          "code": "DB01",
+          "label": "１分力",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DB02",
+          "label": "２分力",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DB03",
+          "label": "３分力",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DB05",
+          "label": "モーメント成分なし",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    }
+  ]
+}

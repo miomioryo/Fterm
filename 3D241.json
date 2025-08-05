@@ -1,0 +1,3689 @@
+{
+  "overall_code": "3D241",
+  "tree": [
+    {
+      "code": "AA00",
+      "label": "駆動装置等の関連制御．目的",
+      "depth": 0,
+      "children": [
+        {
+          "code": "AA01",
+          "label": "振動防止",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AA03",
+          "label": "耐久性向上",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AA04",
+              "label": "クラッチの摩耗，焼損防止",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AA05",
+              "label": "内燃機関の損傷防止",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AA06",
+              "label": "変速ギヤの破損防止",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AA07",
+              "label": "Ｖベルトの損傷防止",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AA09",
+          "label": "小型軽量化",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AA11",
+          "label": "構造簡素化",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AA12",
+              "label": "ペダル，レバーの単一化，兼用化",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AA13",
+                  "label": "身体障害者用",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "AA15",
+          "label": "駆動装置間の単なる連動，自動化",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AA17",
+          "label": "公害対策",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AA18",
+              "label": "騒音低減",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AA19",
+              "label": "排気ガス対策",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AA21",
+          "label": "省燃費",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AA22",
+              "label": "フューエルカット",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AA23",
+              "label": "惰性走行，ニュートラル走行",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AA24",
+              "label": "オーバードライブ",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AA25",
+              "label": "ロックアップ",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AA26",
+              "label": "最低燃費曲線を考慮したもの",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AA28",
+          "label": "始動性の向上",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AA30",
+          "label": "発進性の向上",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AA31",
+          "label": "走行性の向上",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AA32",
+              "label": "加速性の向上",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AA33",
+              "label": "減速性の向上",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AA34",
+                  "label": "エンジンブレーキ性能の向上",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "AA35",
+              "label": "出力増大，出力損失防止",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AA36",
+              "label": "エンスト防止",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AA37",
+              "label": "低速走行安定性向上",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AA38",
+                  "label": "インチング性向上",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "AA39",
+              "label": "ノッキング防止",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AA40",
+              "label": "旋回性能向上",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AA41",
+          "label": "追従走行",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AA42",
+          "label": "駐停車性の向上",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AA43",
+              "label": "クリープ防止",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AA44",
+              "label": "坂道での後退防止",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AA45",
+                  "label": "クリープ利用",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "AA47",
+          "label": "スリップ防止",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AA48",
+              "label": "トラクション制御",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AA49",
+              "label": "アンチスキッド制御",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AA51",
+          "label": "変速性の向上",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AA52",
+              "label": "飛び越し変速防止",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AA53",
+              "label": "変速ショック低減",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AA54",
+              "label": "伝動ベルトのスリップ防止",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AA55",
+              "label": "ギヤ抜けの適正化",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AA57",
+          "label": "クラッチ性能向上",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AA58",
+              "label": "クラッチの滑り防止",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AA59",
+              "label": "クラッチ接続ショック低減",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AA61",
+          "label": "エンジン性能の向上",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AA62",
+              "label": "補機使用時の出力低下防止",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AA63",
+              "label": "オーバーラン防止",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AA64",
+              "label": "空吹かし防止",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AA65",
+          "label": "ブレーキ性能向上",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AA66",
+          "label": "制御の安定性，応答性の向上",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AA67",
+              "label": "ハンチング防止",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AA68",
+              "label": "油圧制御系",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AA69",
+              "label": "電子制御系",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AA71",
+          "label": "安全性，フェイルセイフ",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AA72",
+              "label": "急発進防止",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AA73",
+              "label": "緊急発進可能",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AA74",
+              "label": "誤操作時の安全対策",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AA75",
+              "label": "後進時の安全対策",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AA76",
+              "label": "速度制限",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AA77",
+              "label": "ペダル，レバーの作動規制",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AA78",
+              "label": "インターロック規制",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AA79",
+              "label": "制御の解除",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AA80",
+              "label": "故障診断，警報",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AB00",
+      "label": "駆動装置等の関連制御．適用車種",
+      "depth": 0,
+      "children": [
+        {
+          "code": "AB01",
+          "label": "一般車両",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AB02",
+              "label": "バス，トラック",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AB04",
+          "label": "農業車両",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AB05",
+              "label": "歩行型",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AB07",
+          "label": "建設，土木，産業車両",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "AC00",
+      "label": "駆動装置等の関連制御．構造",
+      "depth": 0,
+      "children": [
+        {
+          "code": "AC01",
+          "label": "推進装置，エンジン",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AC02",
+              "label": "ディーゼルエンジン",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AC03",
+              "label": "過給機",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AC04",
+              "label": "アクセルペダル，レバー",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AC06",
+          "label": "クラッチ",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AC07",
+              "label": "流体圧式",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AC08",
+              "label": "トルクコンバータ，流体継手",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AC09",
+                  "label": "ロックアップクラッチ付きトルクコンバータ，流体継手",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "AC10",
+              "label": "電磁式，電磁粉式",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AC11",
+              "label": "機械式",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AC12",
+                  "label": "ベルトテンション式",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "AC13",
+              "label": "クラッチペダル，レバー",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AC14",
+          "label": "変速装置",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AC15",
+              "label": "自動変速",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AC16",
+              "label": "手動変速",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AC17",
+                  "label": "半自動変速",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "AC18",
+              "label": "有段変速",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AC19",
+              "label": "無段変速",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AC20",
+                  "label": "Ｖベルト式無段変速機",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AC22",
+                  "label": "油圧モーター式",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AC23",
+                  "label": "電気式",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "AC24",
+              "label": "変速ペダル，レバー",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AC26",
+          "label": "ブレーキ",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AC27",
+              "label": "倍力装置",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AC28",
+              "label": "アンチスキッド",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AC29",
+              "label": "ブレーキペダル，レバー",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AC30",
+          "label": "制御ユニットに特徴のあるもの",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "AD00",
+      "label": "駆動装置等の関連制御．入力信号",
+      "depth": 0,
+      "children": [
+        {
+          "code": "AD01",
+          "label": "推進装置，エンジン",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AD02",
+              "label": "機関軸回転数，出力",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AD03",
+                  "label": "加減速度，変化割合",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "AD04",
+              "label": "スロットル弁開度",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AD05",
+                  "label": "空気吸入量，吸気管負圧",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "AD06",
+              "label": "アイドリング回転数",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AD07",
+              "label": "エンジン負荷",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AD08",
+              "label": "気筒数",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AD09",
+              "label": "燃料供給，燃料噴射",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AD10",
+              "label": "アクセルペダル，レバーの踏込量，操作量",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AD11",
+                  "label": "踏込み速さ，操作速さ",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "AD12",
+              "label": "始動",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AD13",
+              "label": "エンジン温度",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AD14",
+                  "label": "エンジン冷却水温",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "AD15",
+              "label": "エンジンブレーキ",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AD17",
+          "label": "クラッチ",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AD18",
+              "label": "接断",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AD19",
+                  "label": "半クラッチ",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "AD20",
+                      "label": "ストローク量",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "AD21",
+                      "label": "すべり率",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "AD22",
+                  "label": "駆動側回転数",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AD23",
+                  "label": "被駆動側回転数",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "AD24",
+              "label": "クラッチ板温度",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AD26",
+          "label": "サイドクラッチ",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AD28",
+          "label": "インチングクラッチ",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AD30",
+          "label": "変速",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AD31",
+              "label": "変速段，変速比位置",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AD32",
+                  "label": "ニュートラルレンジ",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AD33",
+                  "label": "後進レンジ",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AD34",
+                  "label": "オーバードライブレンジ",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "AD35",
+              "label": "シフトチェンジ",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AD36",
+                  "label": "前後進切換",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AD37",
+                  "label": "無段変速の変速比変化割合",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AD38",
+                  "label": "シフトタイミング",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "AD39",
+              "label": "変速パターン，変速モード",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AD41",
+          "label": "ブレーキ",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AD42",
+              "label": "パーキングブレーキ作動",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AD43",
+              "label": "急ブレーキ",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AD44",
+              "label": "アンチスキッド作動",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AD46",
+          "label": "車両外部状況",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AD47",
+              "label": "道路状態",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AD48",
+              "label": "自然条件",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AD50",
+          "label": "車両状況",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AD51",
+              "label": "車速，加減速度",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AD52",
+              "label": "クーラー",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AD53",
+              "label": "作業機",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AE00",
+      "label": "駆動装置等の関連制御．制御対象",
+      "depth": 0,
+      "children": [
+        {
+          "code": "AE01",
+          "label": "駆動装置",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AE02",
+              "label": "推進装置",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AE03",
+                  "label": "機関軸回転数，出力",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AE04",
+                  "label": "スロットル弁開度",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "AE05",
+                      "label": "空気吸入量，吸気管負圧",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "AE06",
+                  "label": "気筒数",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AE07",
+                  "label": "燃料供給，燃料噴射",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "AE08",
+                      "label": "フューエルカット",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "AE09",
+                  "label": "点火時期",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AE10",
+                  "label": "過給圧",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AE11",
+                  "label": "エンジンブレーキ",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AE12",
+                  "label": "アクセルペダル，レバー",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "AE14",
+              "label": "クラッチ",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AE15",
+                  "label": "同期",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AE16",
+                  "label": "接断タイミング",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AE17",
+                  "label": "接続時間，接続速度",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AE18",
+                  "label": "半クラッチ",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "AE19",
+                      "label": "クラッチストローク量",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "AE20",
+                      "label": "すべり率",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "AE21",
+                  "label": "接断頻度",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AE22",
+                  "label": "クラッチ圧力",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AE23",
+                  "label": "クラッチトルク",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AE24",
+                  "label": "クラッチレリーズベアリング負荷",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "AE26",
+              "label": "サイドクラッチ",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AE28",
+              "label": "インチングクラッチ",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AE30",
+              "label": "変速",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AE31",
+                  "label": "最適ギヤ段，最適変速比",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "AE32",
+                      "label": "シフトチェンジ",
+                      "depth": 5,
+                      "children": [
+                        {
+                          "code": "AE33",
+                          "label": "ニュートラルレンジ",
+                          "depth": 6,
+                          "children": []
+                        },
+                        {
+                          "code": "AE34",
+                          "label": "オーバードライブレンジ",
+                          "depth": 6,
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "code": "AE35",
+                      "label": "シフトタイミング",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "AE36",
+                      "label": "プーリー比の変更",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "AE37",
+                  "label": "ロックアップとの切換",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AE38",
+                  "label": "シフト規制，シフトロック",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AE39",
+                  "label": "ライン圧",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AE40",
+                  "label": "変速パターン，変速モード",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "AE41",
+              "label": "ブレーキ",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AE42",
+                  "label": "パーキングブレーキ",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AE43",
+                  "label": "アンチスキッド",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "AE45",
+          "label": "車速，加減速度",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "AF00",
+      "label": "駆動装置等の関連制御．制御方式",
+      "depth": 0,
+      "children": [
+        {
+          "code": "AF01",
+          "label": "フィードバック制御",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AF03",
+          "label": "デューティ制御",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AF05",
+          "label": "ファジー制御",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AF07",
+          "label": "学習",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AF09",
+          "label": "補正",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "BA00",
+      "label": "目的（【～課題】の欄に限らず付与）",
+      "depth": 0,
+      "children": [
+        {
+          "code": "BA01",
+          "label": "クルーズコントロール",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BA02",
+              "label": "車間距離制御",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "BA03",
+                  "label": "低速追従、ストップ＆ゴー",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "BA04",
+                  "label": "目標車両の選択、切換",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "BA05",
+                      "label": "割り込みに対応するもの",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "BA06",
+                      "label": "先行車を見失った場合に対応するもの",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "BA07",
+              "label": "側方を走行している車両に並走するもの",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA08",
+              "label": "車速設定／車速変更",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BA10",
+          "label": "車速制限を行うもの",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BA11",
+          "label": "走行軌跡維持制御",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BA12",
+              "label": "レーンキープ",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "BA13",
+                  "label": "レーン等を見失った場合に対応するもの",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "BA14",
+              "label": "横方向の車間距離を調整するもの",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA15",
+              "label": "軌跡の生成方法（ＢＡ２２優先）",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BA16",
+          "label": "姿勢制御",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BA17",
+              "label": "回頭性向上（操舵の応答性を含む）",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA18",
+              "label": "安定性制御を行うもの",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "BA19",
+                  "label": "横転対策",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "BA20",
+              "label": "アンダーステア、オーバーステア対策",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BA21",
+          "label": "駐車時の自動運転",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BA22",
+              "label": "駐車を行う軌跡の生成方法",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BA24",
+          "label": "応答性向上（ＢＡ１７優先）",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BA26",
+          "label": "制御の切替に対応（ＢＡ５２も適宜付与）",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BA27",
+              "label": "定速走行←→追従走行の遷移時",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA28",
+              "label": "低速追従←→通常追従制御切替え時",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA29",
+              "label": "手動操作と自動制御との遷移時",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "BA30",
+                  "label": "手動操舵と自動操舵との切り換え時",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "BA31",
+          "label": "衝突リスク（可能性）への対応",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BA32",
+              "label": "走行軌跡の予測を伴うもの",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA33",
+              "label": "衝突回避行動を自動的に行うもの",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA34",
+              "label": "衝突回避不能な時に、衝突に備える制御",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BA35",
+          "label": "衝突後の対応",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BA36",
+          "label": "転落対策（転落する前、転落した後の対策）",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BA38",
+          "label": "渋滞低減（渋滞になった場合の対策）",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BA39",
+          "label": "渋滞を起こさないようにするもの",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BA41",
+          "label": "低コスト化、簡素化、省エネ",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BA42",
+              "label": "演算簡易化",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA43",
+              "label": "メモリ少量化",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA44",
+              "label": "省燃費",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "BA45",
+                  "label": "最低燃費曲線を考慮したもの",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "BA46",
+                  "label": "惰性走行を行うもの",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "BA47",
+              "label": "省電力",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA48",
+              "label": "省センサ",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BA49",
+          "label": "パラメータ（情報、物理量）の推定",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BA50",
+              "label": "推定精度の向上",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BA51",
+          "label": "人の違和感低減、乗り心地",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BA52",
+              "label": "制御切換等のショックを人に伝えない",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA53",
+              "label": "意図しない変速（例、ビジーシフト）防止",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA54",
+              "label": "振動抑制",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA55",
+              "label": "車両の急な運動変化の防止",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BA56",
+          "label": "動力伝達経路上の振動を低減させるもの",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BA57",
+          "label": "運転者に情報を伝えるもの",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BA58",
+              "label": "車両の挙動変化により感覚に訴えるもの",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA59",
+              "label": "操作手段の振動、操作反力によるもの",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA60",
+              "label": "視覚、聴覚に伝達するもの",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BA61",
+          "label": "電子デバイス自体の性能向上（ハード）",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BA62",
+          "label": "電子デバイス自体の性能向上（ソフト）",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BA63",
+          "label": "電子デバイスの信号の処理または監視",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BA64",
+              "label": "異常が生じた後の対策",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA65",
+              "label": "異常検知",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "BA66",
+                  "label": "センサの異常を検知するもの",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "BA68",
+          "label": "車体の、連結、分離、変形への対応",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BA70",
+          "label": "運転者の、よそ見、疲労、酒酔い等の対策",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "BB00",
+      "label": "制御時期",
+      "depth": 0,
+      "children": [
+        {
+          "code": "BB01",
+          "label": "減速時",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BB02",
+          "label": "停車する時（停車状態へ移行するとき）",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BB03",
+          "label": "駐停車している時",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BB04",
+          "label": "発進準備時",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BB05",
+          "label": "発進加速時",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BB06",
+          "label": "加速時（ＢＢ０５優先）",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BB07",
+          "label": "惰性走行時",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BB08",
+          "label": "スリップ時",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BB11",
+          "label": "変速時",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BB12",
+              "label": "シフトアップ時",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BB13",
+              "label": "シフトダウン時",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BB14",
+          "label": "後退時",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BB15",
+          "label": "Ｕターン時",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BB16",
+          "label": "車線変更時",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BB17",
+              "label": "追い越し時",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BB21",
+          "label": "傾斜のある道（降坂、下り勾配含む）",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BB22",
+              "label": "登坂、上り勾配",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BB23",
+              "label": "カント路（左右傾斜）",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BB24",
+          "label": "オフロード、荒地",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BB25",
+          "label": "段差",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BB27",
+          "label": "カーブ",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BB28",
+              "label": "連続カーブ",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BB29",
+              "label": "カーブ退出時（出口）",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BB30",
+              "label": "カーブ進入時（入口）、カーブ手前",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BB31",
+          "label": "交差点",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BB32",
+              "label": "交差点直進",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BB33",
+              "label": "交差点右折",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BB34",
+              "label": "交差点左折",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BB37",
+          "label": "複数車線の道路",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BB38",
+              "label": "歩道側方走行時",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BB39",
+              "label": "対向車側方走行時",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BB40",
+          "label": "狭隘路",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BB41",
+          "label": "市街地走行時",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BB42",
+          "label": "自動車専用道路走行時",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BB43",
+              "label": "インターチェンジ、料金所等",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BB45",
+          "label": "分流",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BB46",
+          "label": "合流、車線減少、車線規制",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BB48",
+          "label": "トンネル",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BB49",
+              "label": "トンネル火災",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BB51",
+          "label": "自然条件、気象",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BB52",
+              "label": "降雨、降雪",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BB53",
+              "label": "晴天",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BB54",
+              "label": "夜間、霧、悪視界時",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BB55",
+              "label": "風",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BB56",
+              "label": "寒冷地、猛暑",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BB58",
+          "label": "災害時",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BB59",
+              "label": "事故（他車）",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BB61",
+          "label": "原動機の状態",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BB62",
+              "label": "原動機フェイル時",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BB63",
+              "label": "停止（エンスト）時",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BB64",
+              "label": "アイドリング時",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BB65",
+              "label": "高温時（オーバーヒート）",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BB66",
+              "label": "高負荷時",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BB67",
+              "label": "過回転時",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BB68",
+              "label": "薄燃焼時",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BB71",
+          "label": "電源フェイル時",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BB72",
+          "label": "電子デバイスフェイル（ＢＢ７６～も付与）",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BB73",
+              "label": "センサフェイル時（ＢＢ７６～も付与）",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BB74",
+          "label": "機械的フェール時（ＢＢ７６～も付与）",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BB76",
+          "label": "ステアリング装置フェイル時",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BB77",
+          "label": "制動装置フェイル時",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BB78",
+          "label": "駆動系フェイル時（ＢＢ６２優先）",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BB79",
+          "label": "推進用モータのフェイル時",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BB80",
+          "label": "その他の箇所のフェイル時",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "BC00",
+      "label": "運動制御の方向",
+      "depth": 0,
+      "children": [
+        {
+          "code": "BC01",
+          "label": "前後方向の制御を行うもの",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BC02",
+          "label": "左右方向の制御を行うもの",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BC03",
+          "label": "上下方向の制御を行うもの",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BC04",
+          "label": "ヨー方向の制御を行うもの",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BC05",
+          "label": "ロール方向の制御を行うもの",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BC06",
+          "label": "ピッチ方向の制御を行うもの",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "CA00",
+      "label": "自車両の車種",
+      "depth": 0,
+      "children": [
+        {
+          "code": "CA01",
+          "label": "前輪駆動車、ＦＦ",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CA02",
+          "label": "後輪駆動車、ＦＲ、ＲＲ",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CA03",
+          "label": "ＡＷＤ、４ＷＤ、４輪（以上）駆動車",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CA04",
+              "label": "機械的に駆動力を配分（センタデフ等）",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CA05",
+              "label": "一部輪が電動モータ（ｅ－４ＷＤ等）",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CA06",
+          "label": "ＨＥＶ（ハイブリッド電気自動車）",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CA07",
+              "label": "シリーズ式ＨＥＶ",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CA08",
+          "label": "電気自動車（ＣＡ０９優先）",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CA09",
+          "label": "各輪ごとに電動機（インホイールモータ等）",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CA10",
+          "label": "油圧駆動車",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CA11",
+          "label": "１軸車両（１輪車、倒立振子車両）",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CA12",
+          "label": "２軸２輪車（バイク）",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CA13",
+          "label": "多軸車（３軸以上）（菱形はＣＡ１４へ）",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CA14",
+          "label": "特殊な車軸、車輪配置（３輪、菱形配置等）",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CA15",
+          "label": "連結、牽引、被牽引（トレーラ等）",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CA16",
+          "label": "４ＷＳ，４輪（以上）操舵車両",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CA17",
+          "label": "競技用車両",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CA18",
+          "label": "産業車両（ＣＡ１５優先）",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CA19",
+              "label": "建機",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CA20",
+              "label": "農機",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CB00",
+      "label": "制御対象の前提構造",
+      "depth": 0,
+      "children": [
+        {
+          "code": "CB01",
+          "label": "手動変速機",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CB02",
+          "label": "自動変速機",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CB03",
+              "label": "ＣＶＴ無段変速",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CB05",
+          "label": "トルクコンバータ、流体継手",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CB06",
+              "label": "ロックアップクラッチ付き",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CB08",
+          "label": "バイワイヤ（電気的にのみ接続されるもの）",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "CC00",
+      "label": "制御対象（具体的に記載された装置）",
+      "depth": 0,
+      "children": [
+        {
+          "code": "CC01",
+          "label": "推進装置",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CC02",
+              "label": "エンジン",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CC03",
+              "label": "電動機",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CC08",
+          "label": "摩擦制動装置",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CC09",
+              "label": "左右の制動力を独立に制御（左右差）",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CC11",
+          "label": "変速伝動装置",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CC13",
+          "label": "クラッチ",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CC14",
+          "label": "左右駆動力分配装置",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CC15",
+          "label": "前後駆動力分配装置",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CC17",
+          "label": "操向装置",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CC18",
+          "label": "懸架装置（バネ、ダンパ、スタビライザ）",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CC19",
+          "label": "補機",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CC20",
+          "label": "その他車両の運動に影響を与えるもの",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "CD00",
+      "label": "制御のやり方",
+      "depth": 0,
+      "children": [
+        {
+          "code": "CD01",
+          "label": "伝達特性変更（ゲイン、時定数、減衰係数）",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CD02",
+          "label": "車両の運動モデルを切り換えるもの",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CD03",
+          "label": "パラメータの設定にマップを用いるもの",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CD04",
+              "label": "マップの切り換え",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CD05",
+          "label": "走行状態に応じて制御を切換るもの",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CD06",
+              "label": "低速走行時と高速走行時に制御を切換る",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CD07",
+          "label": "条件により制御を抑制、中止、禁止するもの",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CD08",
+              "label": "制御の抑制を抑制するもの",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CD09",
+          "label": "危険度、リスクポテンシャルを用いるもの",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CD10",
+          "label": "演算して求めた将来の予測値を用いる制御",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CD11",
+          "label": "目標値、設定値の設定に特徴",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CD12",
+          "label": "判定を行う閾値の設定に特徴",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CD13",
+          "label": "値を徐変（漸減、漸増）させるもの",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CD14",
+          "label": "値を急変させるもの",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CD15",
+          "label": "上限値、下限値の設定に特徴",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CD16",
+          "label": "最小値、小さい方の値を選択するもの",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CD17",
+          "label": "最大値、大きい方の値を選択するもの",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CD18",
+          "label": "ヒステリシスの設定に特徴",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CD19",
+          "label": "不感帯の設定に特徴",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CD20",
+          "label": "加加速度、ジャーク等、高次の微分値を使用",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CD21",
+          "label": "異なるＥＣＵ、制御間の調停を行うシステム",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CD22",
+              "label": "異なるサブユニット間の調停を行うもの",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CD23",
+              "label": "ＥＣＵ間に主従関係があるもの",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CD24",
+          "label": "二重系によるフェールセーフ",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CD26",
+          "label": "制御の順序に特徴があるもの",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CD27",
+          "label": "制御のタイミングの変更に特徴のあるもの",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CD28",
+          "label": "タイマを有するもの",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CD29",
+          "label": "カウンタを有するもの（回数を数えるもの）",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "CE00",
+      "label": "検知、推定、制御の具体的な手段",
+      "depth": 0,
+      "children": [
+        {
+          "code": "CE01",
+          "label": "周波数解析を用いるもの",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CE02",
+          "label": "外部との通信で得た情報を運動制御に利用",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CE03",
+              "label": "車々間通信で得た情報を運動制御に利用",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CE04",
+          "label": "ＧＰＳ、地図、ナビ情報を運動制御に利用",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CE05",
+          "label": "画像処理を用いるもの",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CE06",
+              "label": "画像処理の手法が具体的なもの",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CE07",
+          "label": "同じ物理量を複数の方法で検知・推定し比較",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CE08",
+          "label": "学習によって制御、推定、検知を行うもの",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CE09",
+          "label": "自動車の運動モデルを用いるもの",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CE10",
+          "label": "ドライバモデルを用いるもの",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "DA00",
+      "label": "検知・推定情報１（動力駆動電装系等）",
+      "depth": 0,
+      "children": [
+        {
+          "code": "DA01",
+          "label": "動力源",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DA02",
+              "label": "エンジン状態",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "DA03",
+                  "label": "機関軸回転数",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DA04",
+                  "label": "機関出力、トルク",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DA05",
+                  "label": "スロットル弁開度",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "DA06",
+                      "label": "変化速度",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "DA12",
+              "label": "アクセルペダル、レバー操作",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "DA13",
+                  "label": "アクセルペダル、レバー踏込量、操作量",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "DA14",
+                      "label": "踏込み速度、操作速度、操作加速度",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "DA15",
+                  "label": "アクセル戻し操作",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "DA16",
+                      "label": "戻し操作速度",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "DA17",
+              "label": "エンジンの燃費",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DA18",
+              "label": "推進用モータの状態",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "DA19",
+                  "label": "モータ回転数",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DA20",
+                  "label": "モータトルク、電流",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "DA21",
+          "label": "駆動系",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DA22",
+              "label": "変速機の状態",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "DA23",
+                  "label": "変速段、変速位置",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DA24",
+                  "label": "シフトチェンジ",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "DA25",
+                      "label": "ギヤ段を選択するクラッチの状態",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "DA26",
+                  "label": "変速モード",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DA27",
+                  "label": "入力軸の状態（回転数）",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DA28",
+                  "label": "出力軸の状態（回転数）",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "DA32",
+              "label": "発進用クラッチ（メインクラッチ）の状態",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DA33",
+              "label": "トルコンのロックアップクラッチの状態",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DA34",
+              "label": "駆動力分配装置の状態（デフ等）",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "DA35",
+                  "label": "前後駆動力分配装置の状態",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DA36",
+                  "label": "左右駆動力分配装置の状態",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "DA38",
+          "label": "制動系",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DA39",
+              "label": "ブレーキ操作状態、ストローク、踏力",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "DA40",
+                  "label": "操作速度、操作加速度",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DA41",
+                  "label": "戻し操作",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DA42",
+                  "label": "駐車ブレーキレバー、スイッチの操作",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DA43",
+                  "label": "リタ－ダスイッチ操作",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "DA44",
+              "label": "制動装置の作動状態",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "DA45",
+                  "label": "制動トルク",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DA46",
+                  "label": "駐車ブレーキ作動状態",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DA47",
+                  "label": "リターダ作動状態",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "DA48",
+              "label": "制動装置の状態、摩耗、消耗",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DA49",
+              "label": "ブレーキ液、空気圧、負圧",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "DA51",
+          "label": "操舵系",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DA52",
+              "label": "ハンドル操舵角",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DA53",
+              "label": "ハンドル操舵角速度、角加速度",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DA54",
+              "label": "タイヤ舵角（前後転舵角比、後輪舵角等）",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "DA55",
+                  "label": "前輪タイヤ舵角",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "DA56",
+              "label": "タイヤ舵角速度、角加速度（後輪など）",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "DA57",
+                  "label": "前輪タイヤ舵角速度、角加速度",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "DA58",
+              "label": "操舵トルク",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DA59",
+              "label": "ステアリング伝達比",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DA60",
+              "label": "ハンドルの切り戻し",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "DA61",
+          "label": "懸架装置系（バネ、ダンパ、スタビライザ）",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DA62",
+              "label": "ばね定数",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DA63",
+              "label": "減衰係数、減衰力",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DA64",
+              "label": "圧力",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DA65",
+              "label": "温度、粘性",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "DA67",
+          "label": "その他電装系、補機",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DA68",
+              "label": "エアコンの作動",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DA69",
+              "label": "バッテリの状態",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "DA70",
+          "label": "スタビリティコントロール、ＡＢＳ、ＴＲＣ",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "DB00",
+      "label": "検知・推定情報２（自車の運動状態）",
+      "depth": 0,
+      "children": [
+        {
+          "code": "DB01",
+          "label": "位置（絶対位置を含む）",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DB02",
+          "label": "前後速度",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DB03",
+              "label": "１つ又は複数の車輪速より演算",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DB04",
+              "label": "停止状態",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "DB05",
+          "label": "前後加速度、減速度",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DB06",
+          "label": "ジャーク、加加速度以上の微分値",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DB07",
+          "label": "横位置、車線からの逸脱量",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DB08",
+          "label": "横速度",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DB09",
+          "label": "横加速度（横力はＤＢ２４）",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DB10",
+          "label": "上下方向（車高）、位置、速度、加速度",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DB11",
+          "label": "標高、高度",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DB12",
+          "label": "ヨー方向、ヨー角、ヨーレート",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DB13",
+          "label": "ヨー角加速度、ヨーモーメント",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DB14",
+          "label": "ロール角",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DB15",
+          "label": "ロール角速度、ロール角加速度",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DB16",
+          "label": "ピッチ（角、角速度、角加速度）",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DB18",
+          "label": "車体（横）滑り角、車体横滑り速度",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DB20",
+          "label": "走行軌跡、走行計画",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DB21",
+          "label": "車輪状態",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DB22",
+              "label": "車輪にかかる力（垂直力は、ＤＢ４７）",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "DB23",
+                  "label": "前後力、制駆動力",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DB24",
+                  "label": "横力（コーナリングフォース）",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DB25",
+                  "label": "路面反力トルク、アライニングトルク",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "DB26",
+              "label": "摩擦円、グリップ度",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DB27",
+              "label": "滑り率、滑り量",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DB28",
+              "label": "車輪（横）滑り角、車輪（横）滑り速度",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DB29",
+              "label": "トー、キャンバ、キャスタ等",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DB32",
+              "label": "車輪速度（車体速度はＤＢ０２～）",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "DB33",
+                  "label": "車輪の速度０、極低速",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "DB35",
+              "label": "車輪加減速度",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DB36",
+              "label": "複数車輪の回転差",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "DB37",
+                  "label": "駆動輪と従動輪、前後輪速度差",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DB38",
+                  "label": "左右輪速度差",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "DB40",
+              "label": "コーナリングパワー、スティフネス",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DB42",
+              "label": "タイヤの状態（空気圧、パンク、温度）",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "DB43",
+                  "label": "タイヤばね定数、減衰係数",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DB44",
+                  "label": "タイヤ寸法（径、幅）",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "DB46",
+          "label": "重量、積載量",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DB47",
+              "label": "輪荷重、軸荷重、重量配分",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "DB48",
+          "label": "重心位置",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DB50",
+          "label": "作業車、特殊車の作業状態",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "DC00",
+      "label": "検知・推定情報３（車外情報）",
+      "depth": 0,
+      "children": [
+        {
+          "code": "DC01",
+          "label": "先行車",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DC02",
+              "label": "車間距離、位置、相対位置",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DC03",
+              "label": "相対速度",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DC04",
+              "label": "絶対速度、車速",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DC05",
+              "label": "加減速度",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DC06",
+              "label": "横位置、車線からの逸脱量",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DC07",
+              "label": "横方向速度",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DC08",
+              "label": "車線変更して先行車となるもの",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "DC09",
+                  "label": "隣接車線からの割り込み車両",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "DC10",
+              "label": "ロスト、逸失、見失う",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DC11",
+              "label": "これから先行車がとる挙動（幅寄せ、等）",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DC12",
+              "label": "走行軌跡（先行車の軌跡に沿って追従等）",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "DC13",
+          "label": "先々行車",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DC14",
+              "label": "車間距離、位置、相対位置",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DC15",
+              "label": "速度、相対速度",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DC16",
+              "label": "加減速度",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "DC18",
+          "label": "対向車",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DC20",
+          "label": "交差車両",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DC21",
+          "label": "後続車",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DC22",
+              "label": "車間距離、位置、相対位置",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DC23",
+              "label": "速度、相対速度",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DC24",
+              "label": "加減速度",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "DC25",
+          "label": "その他関係車両（隣接車線の走行車等）",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DC26",
+              "label": "位置、車間距離、横位置、速度、相対速度",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DC27",
+              "label": "これから関係車がとる挙動（車線変更等）",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "DC28",
+          "label": "他車の車両種別等の情報",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DC29",
+              "label": "大型車（トレーラ）",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DC30",
+              "label": "二輪車",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "DC31",
+          "label": "歩行者、動物",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DC32",
+              "label": "移動方向、速度",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "DC33",
+          "label": "その他障害物（落下物、駐車車両、事故車）",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DC34",
+          "label": "路面標示（停止線、横断道など）",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DC35",
+              "label": "境界線認識（白線検知）",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "DC36",
+                  "label": "境界線の色、種類",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "DC37",
+          "label": "走行しているレーンの特定",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DC38",
+          "label": "走行エリア（山道、高速道路、市街地等）",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DC39",
+          "label": "道路標識",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DC40",
+          "label": "制限速度、法定速度（ＤＣ３４、３９検討）",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DC41",
+          "label": "道路の状態",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DC42",
+              "label": "道路形状",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "DC43",
+                  "label": "曲率",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DC44",
+                  "label": "交差点、分岐、合流",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DC45",
+                  "label": "道路の傾斜（勾配、カント）",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "DC46",
+              "label": "路面状態（凍結など）",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "DC47",
+                  "label": "摩擦係数",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "DC48",
+                      "label": "スプリットμ",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "DC49",
+                  "label": "悪路、凸凹、わだち",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "DC50",
+              "label": "路上構造物（縁石、路肩、ガードレール）",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "DC51",
+          "label": "周囲環境条件、自然条件、気象",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DC52",
+              "label": "風圧、風速",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DC53",
+              "label": "気温",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DC54",
+              "label": "照度、明るさ",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DC55",
+              "label": "視界不良状態",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "DC57",
+          "label": "交通状況",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DC58",
+              "label": "渋滞",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "DC59",
+          "label": "信号機の信号情報",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DC60",
+          "label": "時刻、時間帯",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "DD00",
+      "label": "検知・推定情報４（車内情報）",
+      "depth": 0,
+      "children": [
+        {
+          "code": "DD01",
+          "label": "乗員の状態",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DD02",
+              "label": "運転者",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "DD03",
+                  "label": "個人特定、認証、資格",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DD04",
+                  "label": "体調、疲労、睡眠、酒（短期的な状態）",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DD05",
+                  "label": "運転特性、運転傾向（長期的な状態）",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DD06",
+                  "label": "運転意図（車線変更等）",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DD07",
+                  "label": "傍見、視線方向（視線入力はＤＤ１１）",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DD08",
+                  "label": "音声（悲鳴等。音声入力はＤＤ１１）",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "DD10",
+              "label": "運転者以外の乗員",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "DD11",
+          "label": "人による入力（ＤＡ観点優先）",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DD12",
+              "label": "スイッチ操作",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "DD13",
+                  "label": "ウィンカ操作",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "DD14",
+              "label": "値を直接入力するもの（目標値等）",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

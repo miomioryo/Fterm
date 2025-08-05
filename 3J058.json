@@ -1,0 +1,3985 @@
+{
+  "overall_code": "3J058",
+  "tree": [
+    {
+      "code": "AA00",
+      "label": "ドラムブレーキ又はディスクブレーキの形式（形式付与）",
+      "depth": 0,
+      "children": [
+        {
+          "code": "AA01",
+          "label": "ドラムブレーキ",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AA02",
+              "label": "ドラムの数",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AA03",
+                  "label": "１",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AA04",
+                  "label": "２以上",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "AA05",
+              "label": "摩擦面の位置",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AA06",
+                  "label": "ドラム外周",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AA07",
+                  "label": "ドラム内周",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "AA08",
+                      "label": "ＬＴブレーキ",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "AA09",
+                      "label": "２Ｌブレーキ",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "AA12",
+              "label": "摩擦面の角度",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AA13",
+                  "label": "回転軸に対し平行",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AA14",
+                  "label": "回転軸に対し傾斜",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "AA16",
+              "label": "制動部材の種類",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AA17",
+                  "label": "シュー",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AA18",
+                  "label": "バンド",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AA19",
+                  "label": "コイル",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AA20",
+                  "label": "ローラ",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "AA22",
+              "label": "制動部材の数（ドラム１個につき）",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AA23",
+                  "label": "１",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AA24",
+                  "label": "２",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AA25",
+                  "label": "３以上",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "AA27",
+              "label": "操作源の形態",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AA28",
+                  "label": "流体圧式",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AA29",
+                  "label": "電気（磁気）式",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AA30",
+                  "label": "機械式",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "AA32",
+              "label": "シリンダボアの数（ドラム１個につき）",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AA33",
+                  "label": "１",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AA34",
+                  "label": "２以上",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "AA36",
+              "label": "作動形態",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AA37",
+                  "label": "ポジティブ（操作時制動付与）",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AA38",
+                  "label": "ネガティブ（操作時制動解除）",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AA39",
+                  "label": "常時制動",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "AA41",
+          "label": "ディスクブレーキ",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AA42",
+              "label": "ディスクの数",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AA43",
+                  "label": "１",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AA44",
+                  "label": "２以上",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "AA46",
+              "label": "摩擦面の位置",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AA47",
+                  "label": "片面",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AA48",
+                  "label": "両面",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "AA52",
+              "label": "摩擦面の角度",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AA53",
+                  "label": "回転軸に対し垂直",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AA54",
+                  "label": "回転軸に対し傾斜",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AA55",
+                  "label": "回転軸に対し平行",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "AA57",
+              "label": "フルフェース型",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AA58",
+                  "label": "乾式",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AA59",
+                  "label": "湿式",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "AA62",
+              "label": "スポット型",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AA63",
+                  "label": "フィスト型",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AA64",
+                  "label": "ヨーク型",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AA65",
+                  "label": "ティルト型",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AA66",
+                  "label": "オポーズド型",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "AA67",
+              "label": "制動部材の数",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AA68",
+                  "label": "１",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AA69",
+                  "label": "２",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AA70",
+                  "label": "３以上",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "AA72",
+              "label": "キャリパの数",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AA73",
+                  "label": "１",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AA74",
+                  "label": "２以上",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "AA76",
+              "label": "操作源の形態",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AA77",
+                  "label": "流体圧式",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AA78",
+                  "label": "電気（磁気）式",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AA79",
+                  "label": "機械式",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "AA82",
+              "label": "シリンダボアの数",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AA83",
+                  "label": "１",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AA84",
+                  "label": "２以上",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "AA86",
+              "label": "作動形態",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AA87",
+                  "label": "ポジティブ（操作時制動付与）",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AA88",
+                  "label": "ネガティブ（操作時制動解除）",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "AA90",
+          "label": "ドラムインディスクブレーキ",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "AB00",
+      "label": "その他のブレーキの形式",
+      "depth": 0,
+      "children": [
+        {
+          "code": "AB01",
+          "label": "リターダ",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AB02",
+              "label": "流体式",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AB03",
+                  "label": "流体の粘性抵抗",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "AB04",
+                      "label": "回転羽根のみによるもの",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "AB05",
+                      "label": "回転羽根と固定羽根によるもの",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "AB06",
+                      "label": "移動体に付設した抵抗板",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "AB07",
+                  "label": "羽根に流体噴射",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AB12",
+                  "label": "オリフィス抵抗",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "AB13",
+                      "label": "ベーンによる流体循環",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "AB14",
+                      "label": "歯車による流体循環",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "AB15",
+                      "label": "ピストンによる流体循環",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "AB17",
+                  "label": "粉体，粒体利用",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "AB19",
+              "label": "電気（磁気）式",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AB21",
+          "label": "機械ロック式",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AB22",
+          "label": "直線的な移動体の制動",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AB23",
+              "label": "ロッド状のもの",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AB24",
+              "label": "ロープ状の可とう体",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AB25",
+              "label": "平面",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AB27",
+          "label": "磁性流体（粉体）を利用したブレーキ",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AB28",
+          "label": "一方向の運動のみ制動",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AB29",
+          "label": "速度応動ブレーキ",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AB30",
+              "label": "遠心式ブレーキ",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AB31",
+          "label": "クラッチとブレーキの組み合わせ",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AB32",
+              "label": "流体圧作動",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AB33",
+              "label": "電磁気作動",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AB34",
+              "label": "機械式作動",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AB39",
+          "label": "その他＊",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "BA00",
+      "label": "目的，効果（形式付与）",
+      "depth": 0,
+      "children": [
+        {
+          "code": "BA01",
+          "label": "制動力，制動効果",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BA02",
+              "label": "応答性",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "BA03",
+                  "label": "作動時",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "BA04",
+                  "label": "解除時",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "BA05",
+              "label": "負荷荷重に応じた制動力",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA06",
+              "label": "回転速度に応じた制動力",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA07",
+              "label": "停止位置精度向上",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA08",
+              "label": "自己倍力作用",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA09",
+              "label": "制動時のショック緩和",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA10",
+              "label": "両回転方向への対応",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA11",
+              "label": "片効き防止",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA12",
+              "label": "停止時の制動力確保",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA13",
+              "label": "緊急時の制動力確保",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA14",
+              "label": "車輪ロック防止",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BA16",
+          "label": "引きずり対策",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BA17",
+          "label": "操作性向上",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BA18",
+              "label": "操作力",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA19",
+              "label": "操作フィーリング",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA20",
+              "label": "ストローク",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BA21",
+          "label": "異音対策",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BA23",
+          "label": "振動対策",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BA25",
+          "label": "異物対策，シール性向上",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BA26",
+              "label": "防排水",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA27",
+              "label": "防塵",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA28",
+              "label": "防錆",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BA31",
+          "label": "熱対策",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BA32",
+              "label": "高温対策",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "BA33",
+                  "label": "ベーパーロック防止",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "BA34",
+                  "label": "フェード防止",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "BA35",
+                  "label": "過熱防止",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "BA36",
+                      "label": "断熱",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "BA37",
+                      "label": "空冷",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "BA38",
+                      "label": "水冷",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "BA39",
+              "label": "低温対策",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "BA40",
+                  "label": "凍結防止",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "BA41",
+          "label": "摩耗対策",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BA42",
+              "label": "偏摩耗防止",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BA44",
+          "label": "損傷防止",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BA46",
+          "label": "強度増大，耐久性向上",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BA47",
+              "label": "結合強度",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "BA48",
+                  "label": "ゆるみ防止",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "BA51",
+          "label": "部材の支持",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BA52",
+              "label": "離脱防止",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA53",
+              "label": "こじり，がたつき防止",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BA55",
+          "label": "摺動性向上",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BA57",
+          "label": "隙間（ゆるみ）調整",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BA58",
+              "label": "過調整対策",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BA60",
+          "label": "状態検知，警報",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BA61",
+          "label": "生産性向上",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BA62",
+              "label": "構造の簡素化",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA63",
+              "label": "原材料削減",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA64",
+              "label": "組立性向上，ユニット化",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "BA65",
+                  "label": "誤組付防止",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "BA66",
+              "label": "部品干渉防止",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA67",
+              "label": "小型化，スペース活用",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA68",
+              "label": "軽量化",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA69",
+              "label": "エア抜き性向上",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA70",
+              "label": "保守，メンテナンス向上",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BA71",
+          "label": "運搬輸送対策",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BA73",
+          "label": "摩擦特性",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BA74",
+              "label": "初期摩擦性能",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA75",
+              "label": "耐ジャダー",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA76",
+              "label": "摩擦係数向上，安定化",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BA78",
+          "label": "環境対策",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BA80",
+          "label": "その他＊",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "CA00",
+      "label": "制動部材（特徴付与）",
+      "depth": 0,
+      "children": [
+        {
+          "code": "CA01",
+          "label": "シュー（主にドラムブレーキ）",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CA02",
+              "label": "ライニング",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CA03",
+                  "label": "形状",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CA04",
+                  "label": "層構造",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CA05",
+                  "label": "取り付け構造",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "CA06",
+              "label": "リム",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CA07",
+              "label": "ウェブ",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CA08",
+              "label": "支持",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CA09",
+                  "label": "リターンスプリング",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CA12",
+                  "label": "ホールドダウン装置",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "CA13",
+                      "label": "ピン",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "CA14",
+                      "label": "ホールドダウンスプリング",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "CA15",
+                      "label": "カップ",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "CA17",
+                  "label": "ホイールシリンダ",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CA18",
+                  "label": "アンカー",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "CA19",
+                      "label": "ピボットアンカー",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "CA22",
+                  "label": "バックプレート",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "CA23",
+                      "label": "積層構造",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "CA24",
+                      "label": "ケーブルガイド",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "CA25",
+                      "label": "シュー案内面",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "CA26",
+                      "label": "取り付け部",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "CA28",
+              "label": "ライナ",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CA30",
+              "label": "インシュレータ",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CA31",
+          "label": "バンド",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CA32",
+              "label": "支持",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CA33",
+              "label": "形状",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CA34",
+          "label": "コイル",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CA35",
+              "label": "支持",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CA36",
+              "label": "形状",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CA37",
+          "label": "ローラ",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CA38",
+              "label": "支持",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CA39",
+              "label": "形状",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CA41",
+          "label": "パッド（主にディスクブレーキ）",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CA42",
+              "label": "ライニング",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CA43",
+                  "label": "形状",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CA44",
+                  "label": "層構造",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CA45",
+                  "label": "取り付け構造",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "CA47",
+              "label": "裏金",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CA49",
+              "label": "支持",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CA50",
+                  "label": "キャリパ",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CA52",
+                  "label": "マウンティングブラケット",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "CA53",
+                      "label": "シリンダ内蔵（固定キャリパ）",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "CA54",
+                      "label": "板金ブラケット",
+                      "depth": 5,
+                      "children": [
+                        {
+                          "code": "CA55",
+                          "label": "平板ブラケット",
+                          "depth": 6,
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "code": "CA56",
+                      "label": "片方トルク受け",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "CA57",
+                      "label": "アウタービーム付",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "CA58",
+                      "label": "トルク受け位置",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "CA59",
+                      "label": "取り付け部",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "CA60",
+                  "label": "パッド支持ピン，ボルト",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "CA62",
+              "label": "弾性体",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CA63",
+                  "label": "ディスク半径方向に付勢",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CA64",
+                  "label": "ディスク円周方向に付勢",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CA65",
+                  "label": "軸方向に付勢",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "CA67",
+              "label": "ライナ",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CA69",
+              "label": "インシュレータ",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CA72",
+              "label": "シム",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CA73",
+                  "label": "複数枚",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CA74",
+                  "label": "支持",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CA75",
+                  "label": "孔，スリット",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CA76",
+                  "label": "弾性体コーティング",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CA78",
+          "label": "その他＊",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "CB00",
+      "label": "被制動部材（特徴付与）",
+      "depth": 0,
+      "children": [
+        {
+          "code": "CB01",
+          "label": "ドラム",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CB02",
+              "label": "複数部材からなるもの",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CB03",
+              "label": "支持部構造",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CB04",
+              "label": "形状",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CB11",
+          "label": "ディスク",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CB12",
+              "label": "複数部材からなるもの",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CB13",
+              "label": "支持部構造",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CB14",
+                  "label": "固定支持",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CB15",
+                  "label": "浮動支持",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "CB16",
+                      "label": "弾性支持",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "CB17",
+                  "label": "内周側支持",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CB18",
+                  "label": "外周側支持",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "CB20",
+              "label": "摩擦ライニング付",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CB22",
+              "label": "構造，形状",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CB23",
+                  "label": "ベンチレーテッド",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CB24",
+                  "label": "ソリッド",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CB25",
+                  "label": "リブ",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CB26",
+                  "label": "回転バランス",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CB27",
+                  "label": "摺動面",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "CB28",
+                      "label": "穴",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "CB29",
+                      "label": "溝",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CB30",
+          "label": "その他＊",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "CC00",
+      "label": "作動機構（特徴付与）",
+      "depth": 0,
+      "children": [
+        {
+          "code": "CC01",
+          "label": "操作源の種類",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CC02",
+              "label": "流体圧手段",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CC03",
+                  "label": "液体圧",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CC04",
+                  "label": "気体圧",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "CC06",
+              "label": "機械式",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CC07",
+                  "label": "スプリング",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CC08",
+                  "label": "人力",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "CC12",
+              "label": "電磁気力手段",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CC13",
+                  "label": "電磁石",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CC14",
+                  "label": "永久磁石",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CC15",
+                  "label": "モータ",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CC16",
+                  "label": "圧電素子",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CC17",
+                  "label": "電気回路",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CC19",
+          "label": "複数の操作源",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CC21",
+          "label": "ブレーキ力伝達機構",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CC22",
+              "label": "キャリパ",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CC23",
+                  "label": "分割体",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "CC24",
+                      "label": "ビームタイプ",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "CC25",
+                  "label": "形状",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "CC26",
+                      "label": "反作用部",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "CC32",
+              "label": "シリンダ装置",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CC33",
+                  "label": "シリンダ",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "CC34",
+                      "label": "シール溝",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "CC35",
+                  "label": "ピストン",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "CC36",
+                      "label": "複数のピストン",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "CC37",
+                  "label": "ブリーダ",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "CC42",
+              "label": "ウエッジ装置",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CC43",
+                  "label": "ハウジング",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CC44",
+                  "label": "タペット",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CC45",
+                  "label": "ウエッジ",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CC46",
+                  "label": "ローラ",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CC47",
+                  "label": "ケージ",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "CC52",
+              "label": "カム装置",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CC53",
+                  "label": "Ｓカム",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "CC54",
+                      "label": "カムシャフト",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "CC55",
+                      "label": "チャンバーブラケット",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "CC56",
+                  "label": "ボールカム",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "CC57",
+                      "label": "ボール",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "CC58",
+                      "label": "カム",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "CC62",
+              "label": "ネジ装置",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CC63",
+                  "label": "ボールネジ",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CC64",
+                  "label": "ベアリング",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "CC66",
+              "label": "レバー，リンクタイプ",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CC67",
+              "label": "可とう体",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CC68",
+                  "label": "支持",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CC69",
+                  "label": "形状",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CC70",
+                  "label": "流体充填式",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CC71",
+          "label": "作動形態",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CC72",
+              "label": "ネガティブ（操作時制動解除）",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CC73",
+              "label": "常時制動",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CC75",
+          "label": "解放機構",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CC76",
+              "label": "機械力",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CC77",
+              "label": "電磁気力",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CC78",
+              "label": "流体圧",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CC81",
+          "label": "シリンダ又はキャリパの支持装置",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CC82",
+              "label": "固定",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CC83",
+              "label": "可動（浮動）",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CC84",
+                  "label": "ピンガイド",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "CC85",
+                      "label": "ピボットピン",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "CC86",
+                      "label": "１本スライドピン",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "CC87",
+                      "label": "３本以上のスライドピン",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "CC88",
+                      "label": "スライドピンの配置",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "CC89",
+                      "label": "一対スライドピンの異種構造",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "CC92",
+                      "label": "スリーブ",
+                      "depth": 5,
+                      "children": [
+                        {
+                          "code": "CC93",
+                          "label": "剛性",
+                          "depth": 6,
+                          "children": []
+                        },
+                        {
+                          "code": "CC94",
+                          "label": "弾性",
+                          "depth": 6,
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "code": "CC96",
+                  "label": "面ガイド",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CC98",
+          "label": "その他＊",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "CD00",
+      "label": "その他の構成上の細部（特徴付与）",
+      "depth": 0,
+      "children": [
+        {
+          "code": "CD01",
+          "label": "マスタシリンダ",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CD03",
+          "label": "配管",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CD04",
+          "label": "弁",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CD05",
+              "label": "液圧制御弁",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CD06",
+              "label": "電磁弁",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CD07",
+              "label": "チェック弁",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CD09",
+          "label": "絞り",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CD11",
+          "label": "被取付体",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CD12",
+              "label": "ボディ",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CD13",
+                  "label": "車体",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "CD14",
+              "label": "懸架装置",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CD15",
+              "label": "操舵装置",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CD17",
+          "label": "取付用補助具",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CD18",
+              "label": "ブラケット",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CD19",
+              "label": "ダンパ（緩衝材）",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CD20",
+          "label": "製造，組立装置",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CD21",
+          "label": "駆動系",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CD22",
+              "label": "駆動力発生源",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CD23",
+                  "label": "エンジン",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CD24",
+                  "label": "モータ（電動機）",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "CD25",
+              "label": "駆動力伝達系",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CD26",
+                  "label": "軸，プーリ",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CD27",
+                  "label": "ケーブル，ワイヤ",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CD28",
+                  "label": "ベルト，チェーン",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CD29",
+                  "label": "継手",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "CD30",
+                      "label": "クラッチ",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "CD32",
+                  "label": "リンク機構",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CD33",
+                  "label": "歯車機構",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "CD34",
+                      "label": "変速機",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "CD35",
+                      "label": "差動（デフ）",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "CD36",
+              "label": "被駆動体",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CD37",
+                  "label": "回転運動するもの",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "CD38",
+                      "label": "車輪",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "CD39",
+                  "label": "直線運動するもの",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CD40",
+          "label": "その他＊",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "DA00",
+      "label": "隙間調整（特徴付与）",
+      "depth": 0,
+      "children": [
+        {
+          "code": "DA01",
+          "label": "手動",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DA03",
+          "label": "自動",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DA04",
+              "label": "常用ブレーキ使用時に作動",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DA05",
+              "label": "駐車ブレーキ使用時に作動",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "DA11",
+          "label": "機械式",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DA12",
+              "label": "フリクション利用",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DA13",
+              "label": "噛合，螺合",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "DA14",
+                  "label": "調整レバー",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DA15",
+                  "label": "調整ギア（つめ車）",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DA16",
+                  "label": "ウォーム",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DA17",
+                  "label": "多条ネジ",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DA18",
+                  "label": "ねじ付ストラット",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DA19",
+                  "label": "噛合式ストラット",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "DA20",
+              "label": "偏心体，カム",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DA22",
+              "label": "シリンダ装置に付設",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "DA23",
+                  "label": "シリンダ外部",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DA24",
+                  "label": "シリンダ内蔵",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "DA25",
+                      "label": "シール部",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "DA26",
+              "label": "アンカー部に付設",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DA27",
+              "label": "シューウェブ部に付設",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DA28",
+              "label": "クラッチ",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "DA29",
+                  "label": "一方向クラッチ",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "DA31",
+          "label": "流体圧式",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DA32",
+          "label": "電磁気式",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DA33",
+          "label": "過調整防止",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DA34",
+              "label": "スプリング式",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DA35",
+              "label": "リンク式",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DA36",
+              "label": "所定圧応答式",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "DA38",
+          "label": "隙間拡張",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DA40",
+          "label": "その他＊",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "DB00",
+      "label": "検知（特徴付与）",
+      "depth": 0,
+      "children": [
+        {
+          "code": "DB01",
+          "label": "摩耗検知",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DB02",
+              "label": "制動部材の摩耗",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DB03",
+              "label": "被制動部材の摩耗",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DB04",
+              "label": "電磁気利用",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "DB05",
+                  "label": "破壊検知",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DB06",
+                  "label": "非破壊検知",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "DB07",
+              "label": "流体圧利用",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DB08",
+              "label": "光利用",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DB09",
+              "label": "視覚による検知",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DB12",
+              "label": "聴覚による検知",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "DB13",
+                  "label": "振動片利用",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DB14",
+                  "label": "ライニング埋込",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DB15",
+                  "label": "凹凸によるもの",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "DB16",
+              "label": "感覚による検知",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "DB18",
+          "label": "制動検知",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DB20",
+          "label": "速度（回転速度含む）",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DB21",
+          "label": "圧力",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DB23",
+          "label": "位置，距離，角度",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DB25",
+          "label": "温度",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DB27",
+          "label": "力",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DB29",
+          "label": "その他＊",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "DC00",
+      "label": "密封（特徴付与）",
+      "depth": 0,
+      "children": [
+        {
+          "code": "DC01",
+          "label": "密封作用",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DC02",
+              "label": "侵入防止",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DC03",
+              "label": "漏洩，流出，飛散防止",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "DC05",
+          "label": "呼吸機能をもつもの",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DC06",
+              "label": "チェック弁機構付",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "DC11",
+          "label": "形態",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DC12",
+              "label": "リング状",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "DC13",
+                  "label": "Ｏリング",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DC14",
+                  "label": "リップ付",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "DC16",
+              "label": "筒状",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "DC17",
+                  "label": "ブーツ",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "DC18",
+                      "label": "固定部",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "DC19",
+                      "label": "可撓部",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "DC20",
+                  "label": "一端閉鎖型",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "DC22",
+              "label": "板状",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "DC23",
+                  "label": "ダイヤフラム",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "DC24",
+                      "label": "固定部",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "DC25",
+                      "label": "可撓部",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "DC27",
+              "label": "メカニカルシール",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DC28",
+              "label": "充填によるもの",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "DC30",
+          "label": "その他＊",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "DD00",
+      "label": "結合（特徴付与）",
+      "depth": 0,
+      "children": [
+        {
+          "code": "DD01",
+          "label": "螺合",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DD02",
+              "label": "ボルト，ナット",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DD03",
+              "label": "ねじ込み",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "DD05",
+          "label": "差し込み",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DD06",
+              "label": "ピン",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DD07",
+              "label": "クリップ",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DD08",
+              "label": "止め輪",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DD09",
+              "label": "キー",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DD10",
+              "label": "スプライン",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "DD11",
+          "label": "一体成形",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DD13",
+          "label": "接着",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DD15",
+          "label": "溶接",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DD16",
+              "label": "抵抗溶接",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DD17",
+              "label": "圧接",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "DD19",
+          "label": "かしめ，圧着",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DD20",
+              "label": "リベット",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "DD21",
+          "label": "圧入",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DD22",
+              "label": "焼きばめ",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "DD24",
+          "label": "仮止め",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DD26",
+          "label": "溶着",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DD28",
+          "label": "その他＊",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "DE00",
+      "label": "その他の機能上の細部（特徴付与）",
+      "depth": 0,
+      "children": [
+        {
+          "code": "DE01",
+          "label": "冷却",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DE02",
+              "label": "冷却流路，ダクト",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "DE03",
+                  "label": "冷却媒体循環",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "DE04",
+              "label": "冷却ファン",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DE05",
+              "label": "放熱フィン",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "DE07",
+          "label": "防塵，防水（非密閉）",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DE08",
+              "label": "防塵，防水カバー",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DE09",
+              "label": "迷路構造",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DE10",
+              "label": "フィルタ",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "DE11",
+          "label": "損傷防止",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DE12",
+              "label": "プロテクタ（保護板，カバー）",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "DE13",
+                  "label": "石，砂利",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DE14",
+                  "label": "炎，熱",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "DE16",
+          "label": "清浄化",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DE17",
+              "label": "摩耗粉の除去，収集構造",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "DE19",
+          "label": "潤滑",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DE20",
+          "label": "その他＊",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "EA00",
+      "label": "材料，処理（形式付与）",
+      "depth": 0,
+      "children": [
+        {
+          "code": "EA01",
+          "label": "材料＊",
+          "depth": 2,
+          "children": [
+            {
+              "code": "EA02",
+              "label": "金属（合金含む）",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "EA03",
+                  "label": "鋼（スチール）",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "EA04",
+                      "label": "ステンレス",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "EA05",
+                  "label": "鋳鉄，鋳鋼",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "EA06",
+                  "label": "鍛造",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "EA07",
+                  "label": "焼結金属",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "EA08",
+                  "label": "アルミニウム",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "EA09",
+                  "label": "ニッケル",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "EA10",
+                  "label": "真鍮",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "EA12",
+              "label": "非金属",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "EA13",
+                  "label": "合成樹脂＊",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "EA14",
+                  "label": "セラミックス",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "EA15",
+                  "label": "ゴム",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "EA16",
+                  "label": "ガラス",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "EA17",
+                  "label": "炭素",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "EA18",
+                  "label": "アスベスト",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "EA22",
+              "label": "あわせ材",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "EA23",
+                  "label": "制振鋼材",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "EA25",
+              "label": "熱感応部材",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "EA26",
+                  "label": "バイメタル",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "EA27",
+                  "label": "形状記憶合金",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "EA28",
+              "label": "繊維",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "EA29",
+              "label": "磁性材",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "EA30",
+              "label": "油脂類",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "EA31",
+          "label": "処理＊",
+          "depth": 2,
+          "children": [
+            {
+              "code": "EA32",
+              "label": "被膜（コーティング）",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "EA33",
+                  "label": "塗装",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "EA34",
+                  "label": "メッキ",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "EA35",
+              "label": "溶射",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "EA36",
+              "label": "含浸",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "EA37",
+              "label": "熱処理",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "EA38",
+                  "label": "表面",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "EA39",
+              "label": "研摩",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "EA40",
+          "label": "その他＊",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "FA00",
+      "label": "用途（形式付与）",
+      "depth": 0,
+      "children": [
+        {
+          "code": "FA01",
+          "label": "自動車",
+          "depth": 2,
+          "children": [
+            {
+              "code": "FA02",
+              "label": "二，三輪車",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "FA03",
+              "label": "大型車",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "FA04",
+              "label": "前輪",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "FA05",
+              "label": "後輪",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "FA06",
+              "label": "常用",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "FA07",
+              "label": "駐車用",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "FA09",
+          "label": "自転車",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "FA11",
+          "label": "産業車両（主に道路以外で使用）",
+          "depth": 2,
+          "children": [
+            {
+              "code": "FA12",
+              "label": "農業用",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "FA13",
+                  "label": "田植用",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "FA14",
+                  "label": "草刈用",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "FA15",
+                  "label": "チェンソー",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "FA17",
+              "label": "土木，建設用",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "FA19",
+              "label": "荷役，運搬用",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "FA21",
+          "label": "鉄道車両",
+          "depth": 2,
+          "children": [
+            {
+              "code": "FA22",
+              "label": "磁気浮上車",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "FA24",
+          "label": "航空機",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "FA26",
+          "label": "船舶",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "FA28",
+          "label": "変速機",
+          "depth": 2,
+          "children": [
+            {
+              "code": "FA29",
+              "label": "自動式",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "FA31",
+          "label": "生産機械",
+          "depth": 2,
+          "children": [
+            {
+              "code": "FA32",
+              "label": "工作機械",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "FA33",
+              "label": "紡績機",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "FA34",
+              "label": "産業用ロボット",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "FA35",
+          "label": "運搬機械",
+          "depth": 2,
+          "children": [
+            {
+              "code": "FA36",
+              "label": "エスカレータ",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "FA37",
+              "label": "エレベータ",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "FA38",
+              "label": "コンベア",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "FA39",
+              "label": "巻上機，クレーン",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "FA40",
+              "label": "避難用等降下装置",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "FA41",
+          "label": "電気機器",
+          "depth": 2,
+          "children": [
+            {
+              "code": "FA42",
+              "label": "電動機（モータ）",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "FA43",
+              "label": "テープレコーダ",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "FA44",
+              "label": "脱水機（洗濯機）",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "FA45",
+              "label": "ジューサー，ミキサー",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "FA46",
+              "label": "ミシン",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "FA47",
+              "label": "ＯＡ機器",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "FA49",
+          "label": "扉，窓",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "FA50",
+          "label": "その他",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "GA00",
+      "label": "摩擦ライニング（形式付与）",
+      "depth": 0,
+      "children": [
+        {
+          "code": "GA01",
+          "label": "基材，添加材",
+          "depth": 2,
+          "children": [
+            {
+              "code": "GA02",
+              "label": "合成有機物＊",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "GA03",
+                  "label": "アクリル",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "GA04",
+                  "label": "フェノール",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "GA05",
+                  "label": "ポリエステル",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "GA06",
+                  "label": "ポリアミド",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "GA07",
+                      "label": "アラミド",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "GA12",
+                  "label": "ゴム系",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "GA13",
+                      "label": "アクリルゴム",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "GA14",
+                      "label": "フッ素ゴム",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "GA15",
+                      "label": "ニトリルゴム",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "GA16",
+                      "label": "スチレン系ゴム",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "GA17",
+              "label": "天然有機物＊",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "GA18",
+                  "label": "コルク",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "GA19",
+                  "label": "セルロース",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "GA20",
+                  "label": "カシュー",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "GA22",
+              "label": "無機質＊",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "GA23",
+                  "label": "ガラス",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "GA24",
+                  "label": "ロックウール",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "GA25",
+                  "label": "アスベスト",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "GA26",
+                  "label": "チタン酸カリウム",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "GA27",
+                  "label": "炭素",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "GA28",
+                      "label": "黒鉛",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "GA29",
+                      "label": "カーボンブラック",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "GA30",
+                      "label": "コークス",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "GA31",
+                  "label": "金属酸化物",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "GA32",
+                      "label": "酸化鉄",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "GA33",
+                      "label": "アルミナ",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "GA34",
+                      "label": "シリカ",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "GA35",
+                  "label": "炭酸カルシウム",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "GA36",
+                  "label": "ケイ酸アルミニウム",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "GA37",
+                  "label": "硫酸バリウム",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "GA38",
+                  "label": "硫化モリブデン",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "GA39",
+                  "label": "雲母",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "GA40",
+                      "label": "バーミキュライト",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "GA41",
+              "label": "鉄系金属＊",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "GA42",
+                  "label": "鋳鉄",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "GA43",
+                  "label": "鋼",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "GA44",
+              "label": "非鉄金属＊",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "GA45",
+                  "label": "銅",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "GA46",
+                  "label": "ニッケル",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "GA47",
+                  "label": "コバルト",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "GA48",
+                  "label": "錫",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "GA49",
+                  "label": "アルミニウム",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "GA50",
+                  "label": "亜鉛",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "GA51",
+          "label": "結合材",
+          "depth": 2,
+          "children": [
+            {
+              "code": "GA52",
+              "label": "無機結合材＊",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "GA54",
+              "label": "有機結合材＊",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "GA55",
+                  "label": "フェノール樹脂",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "GA56",
+                  "label": "ポリアミド樹脂",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "GA57",
+                  "label": "エポキシ樹脂",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "GA58",
+                  "label": "メラミン樹脂",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "GA59",
+                  "label": "ゴム系",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "GA60",
+                  "label": "アスファルト",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "GA61",
+          "label": "製造方法，装置＊",
+          "depth": 2,
+          "children": [
+            {
+              "code": "GA62",
+              "label": "配合，攪拌",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "GA63",
+              "label": "成形",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "GA64",
+                  "label": "予備成形",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "GA65",
+                  "label": "加熱成形",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "GA67",
+              "label": "抄紙",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "GA68",
+              "label": "処理",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "GA71",
+          "label": "形態，性質＊",
+          "depth": 2,
+          "children": [
+            {
+              "code": "GA72",
+              "label": "形状",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "GA73",
+                  "label": "繊維",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "GA74",
+                      "label": "パルプ状",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "GA75",
+                      "label": "ウィスカー",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "GA76",
+                      "label": "ヤーン（織糸）",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "GA77",
+                      "label": "かさ高加工（バルキー）",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "GA78",
+                      "label": "太さ，長さ",
+                      "depth": 5,
+                      "children": [
+                        {
+                          "code": "GA79",
+                          "label": "アスペクト比",
+                          "depth": 6,
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "code": "GA81",
+                  "label": "粉末，粒状",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "GA82",
+                      "label": "直径（メッシュ）",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "GA83",
+                  "label": "シート，マット状",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "GA84",
+                  "label": "液状",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "GA85",
+              "label": "硬度",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "GA86",
+              "label": "強度",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "GA87",
+              "label": "熱伝導率",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "GA88",
+              "label": "気孔率",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "GA89",
+              "label": "密度",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "GA90",
+              "label": "ｐＨ（ペーハー）",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "GA91",
+          "label": "ライニングの用途",
+          "depth": 2,
+          "children": [
+            {
+              "code": "GA92",
+              "label": "ブレーキ",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "GA93",
+              "label": "クラッチ",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "GA94",
+              "label": "湿式",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "GA95",
+              "label": "乾式",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "GA97",
+          "label": "その他＊",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    }
+  ]
+}

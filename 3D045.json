@@ -1,0 +1,881 @@
+{
+  "overall_code": "3D045",
+  "tree": [
+    {
+      "code": "AA00",
+      "label": "用途＊",
+      "depth": 0,
+      "children": [
+        {
+          "code": "AA01",
+          "label": "四輪（四輪以上）駆動車",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AA02",
+          "label": "前輪駆動車",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AA03",
+          "label": "二，三輪車",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AA04",
+          "label": "連結車両",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AA05",
+          "label": "大型車両，多軸車",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AA06",
+          "label": "産業車両",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AA07",
+          "label": "鉄道車両",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "BB00",
+      "label": "目的，効果＊",
+      "depth": 0,
+      "children": [
+        {
+          "code": "BB01",
+          "label": "故障，異常時の対策",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BB02",
+              "label": "圧力系統",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "BB03",
+                  "label": "液圧制御弁自体",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "BB04",
+              "label": "荷重検知部",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BB05",
+              "label": "電気系統",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BB06",
+              "label": "異常警報",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BB07",
+              "label": "異物除去，異物混入防止",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BB09",
+          "label": "操作フィーリングの改善",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BB10",
+              "label": "ストローク増大防止",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BB11",
+          "label": "応答性の改善",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BB12",
+          "label": "振動対策",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BB13",
+              "label": "脈動発生防止，抑制",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BB15",
+          "label": "騒音対策",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BB17",
+          "label": "入出力特性の改善",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BB18",
+              "label": "ヒステリシス（戻し特性）",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BB20",
+          "label": "温度対策",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BB21",
+          "label": "耐久性の向上",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BB22",
+              "label": "防錆",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BB24",
+          "label": "生産性の向上",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BB25",
+              "label": "部品点数の減少，一体化，汎用化",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BB26",
+              "label": "部品の分割化",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BB27",
+              "label": "組立作業性の向上",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BB28",
+              "label": "取付性の向上",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BB29",
+              "label": "エア抜き性の向上",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "BB30",
+                  "label": "真空充填方式の対策",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "BB31",
+              "label": "加工性の向上",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BB33",
+          "label": "小型化，軸長短縮",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BB35",
+          "label": "軽量化",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BB37",
+          "label": "車両安定性",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BB38",
+              "label": "左右（スプリット路）",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BB39",
+              "label": "低摩擦路面（雨，雪）",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BB40",
+              "label": "旋回時",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CC00",
+      "label": "ブレーキ力伝達型式＊",
+      "depth": 0,
+      "children": [
+        {
+          "code": "CC01",
+          "label": "液圧式ブレーキ",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CC02",
+              "label": "前後輪配管",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CC03",
+              "label": "クロス配管",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CC05",
+          "label": "空気圧式ブレーキ",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CC07",
+          "label": "エアオーバハイドロリックブレーキ",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "EE00",
+      "label": "ブレーキ要素＊",
+      "depth": 0,
+      "children": [
+        {
+          "code": "EE01",
+          "label": "弁",
+          "depth": 2,
+          "children": [
+            {
+              "code": "EE02",
+              "label": "切換弁",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "EE03",
+              "label": "中継弁",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "EE04",
+                  "label": "ブレーキ圧を段階的に制御する弁",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "EE05",
+              "label": "液圧制御弁",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "EE06",
+                  "label": "前輪，又は前後輪を制御するもの",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "EE07",
+                  "label": "折点が２点以上，又は非線形のもの",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "EE08",
+                  "label": "折点位置が可変のもの",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "EE09",
+                  "label": "減圧比が２種類以上あるもの",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "EE11",
+                  "label": "複数系統を制御するもの",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "EE12",
+                      "label": "並列配置",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "EE13",
+                      "label": "直列配置",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "EE14",
+                      "label": "２つの弁が共通のばねで付勢されるもの",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "EE16",
+                  "label": "他部材への取付け",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "EE17",
+                      "label": "マスタシリンダ一体",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "EE18",
+                      "label": "サスペンション一体",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EE21",
+          "label": "アンチロック装置と併用する装置",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "EE26",
+          "label": "制動保持装置",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "EE28",
+          "label": "倍力装置",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "FF00",
+      "label": "液圧制御弁の特徴ある構造＊",
+      "depth": 0,
+      "children": [
+        {
+          "code": "FF01",
+          "label": "基本構造＊",
+          "depth": 2,
+          "children": [
+            {
+              "code": "FF02",
+              "label": "弁部",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "FF03",
+                  "label": "ポペット弁",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "FF04",
+                  "label": "リップシール",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "FF05",
+              "label": "スプリング",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "FF06",
+                  "label": "保持部材",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "FF07",
+              "label": "ハウジング",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "FF08",
+                  "label": "保護",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "FF11",
+              "label": "プランジャ",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "FF12",
+              "label": "シール部材",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "FF13",
+              "label": "イコライザ",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "FF14",
+              "label": "バイパス通路",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "FF15",
+              "label": "大気室",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "FF16",
+              "label": "差動ピストン",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "FF17",
+              "label": "カバー",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "FF21",
+          "label": "減速度応動部＊",
+          "depth": 2,
+          "children": [
+            {
+              "code": "FF22",
+              "label": "ボール弁",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "FF23",
+              "label": "液流路",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "FF24",
+              "label": "ボールハウジング",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "FF25",
+              "label": "スプリング",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "FF26",
+              "label": "逆止弁",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "FF31",
+          "label": "荷重応動部＊",
+          "depth": 2,
+          "children": [
+            {
+              "code": "FF32",
+              "label": "スプリング",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "FF33",
+                  "label": "コイルスプリング",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "FF34",
+              "label": "機械式力伝達部材",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "FF35",
+                  "label": "イコライザ",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "FF36",
+              "label": "ダストブーツ",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "FF37",
+              "label": "ダンパ",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "FF38",
+              "label": "支点",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "FF41",
+          "label": "駆動装置",
+          "depth": 2,
+          "children": [
+            {
+              "code": "FF42",
+              "label": "電磁弁",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "FF43",
+              "label": "モータ",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "FF46",
+          "label": "結合形態",
+          "depth": 2,
+          "children": [
+            {
+              "code": "FF47",
+              "label": "ネジ止め",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "FF48",
+              "label": "かしめ",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "FF49",
+              "label": "圧入",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "FF50",
+              "label": "溶接，溶着",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "GG00",
+      "label": "検出対象及び検出手段＊",
+      "depth": 0,
+      "children": [
+        {
+          "code": "GG01",
+          "label": "ブレーキ液圧",
+          "depth": 2,
+          "children": [
+            {
+              "code": "GG02",
+              "label": "受圧面積",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "GG03",
+              "label": "スプリング力",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "GG05",
+          "label": "減速度",
+          "depth": 2,
+          "children": [
+            {
+              "code": "GG06",
+              "label": "慣性弁",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "GG07",
+                  "label": "ブレーキ液路開閉",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "GG08",
+                  "label": "制御液室開閉",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "GG09",
+              "label": "慣性体",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "GG10",
+                  "label": "電気的減速度センサ",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "GG11",
+          "label": "重量",
+          "depth": 2,
+          "children": [
+            {
+              "code": "GG12",
+              "label": "シャシと車軸との相対距離",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "GG13",
+                  "label": "回転カム",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "GG14",
+                  "label": "リンク",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "GG15",
+                  "label": "スプリング",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "GG16",
+                  "label": "てこ支点移動",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "GG17",
+              "label": "懸架装置（サスペンション）",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "GG18",
+                  "label": "空気圧",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "GG19",
+                  "label": "液圧",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "GG20",
+                  "label": "スプリング力",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "GG21",
+              "label": "車体と路面との相対距離",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "GG22",
+              "label": "フォークリフトの液圧利用",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "GG23",
+              "label": "電気的荷重センサ",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "GG25",
+          "label": "左右方向",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "GG26",
+          "label": "操舵状態",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "GG27",
+          "label": "速度",
+          "depth": 2,
+          "children": [
+            {
+              "code": "GG28",
+              "label": "車輪速度",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "GG30",
+          "label": "傾斜",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "HH00",
+      "label": "材料",
+      "depth": 0,
+      "children": [
+        {
+          "code": "HH01",
+          "label": "金属",
+          "depth": 2,
+          "children": [
+            {
+              "code": "HH02",
+              "label": "非鉄",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "HH05",
+          "label": "非金属",
+          "depth": 2,
+          "children": [
+            {
+              "code": "HH06",
+              "label": "合成樹脂",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "HH07",
+              "label": "ゴム",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

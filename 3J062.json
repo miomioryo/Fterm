@@ -1,0 +1,2324 @@
+{
+  "overall_code": "3J062",
+  "tree": [
+    {
+      "code": "AA00",
+      "label": "伝動装置の用途＜形式付与＞",
+      "depth": 0,
+      "children": [
+        {
+          "code": "AA01",
+          "label": "車両",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AA02",
+              "label": "自動車",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AA03",
+                  "label": "大型車",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AA04",
+                  "label": "電気自動車，内燃機関以外の車両",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AA06",
+                  "label": "ワイパー",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AA07",
+                  "label": "パワーステアリング",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "AA09",
+              "label": "二輪車",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AA12",
+              "label": "作業車",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AA13",
+                  "label": "農業機械",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "AA14",
+                      "label": "トラクタ",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "AA15",
+                  "label": "土木，建設機械",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "AA17",
+          "label": "変速機",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AA18",
+              "label": "車両用変速機",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AA21",
+          "label": "工作機械",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AA22",
+              "label": "ワークの送り，位置決め",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AA23",
+              "label": "工具の交換",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AA25",
+          "label": "射出成形機",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AA27",
+          "label": "搬送装置",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AA28",
+              "label": "半導体製造用搬送装置",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AA31",
+          "label": "ポンプ，圧縮機",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AA33",
+          "label": "電気機器",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AA34",
+              "label": "ビデオ",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AA35",
+          "label": "事務機器",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AA36",
+          "label": "光学機器",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AA38",
+          "label": "ロボット",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AA39",
+              "label": "パラレルマニプレータ",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AA41",
+          "label": "航空機",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AA42",
+          "label": "船舶",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AA43",
+          "label": "内燃機関",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AA44",
+          "label": "玩具",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AA45",
+          "label": "家具",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AA46",
+              "label": "引き出し",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AA48",
+          "label": "ウイング",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AA51",
+          "label": "特殊環境",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AA52",
+              "label": "真空環境",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AA53",
+              "label": "水中",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AA60",
+          "label": "その他＊",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "AB00",
+      "label": "伝動装置の伝動形式＜形式付与＞",
+      "depth": 0,
+      "children": [
+        {
+          "code": "AB01",
+          "label": "歯車伝動",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AB02",
+              "label": "ウオーム",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AB03",
+              "label": "傘歯車式（ベベルギヤ等）",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AB04",
+              "label": "欠歯歯車",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AB05",
+              "label": "ラック，ピニオン式",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AB06",
+              "label": "遊星歯車式",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AB11",
+          "label": "巻き掛け伝動",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AB12",
+              "label": "ベルト",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AB13",
+              "label": "チェーン",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AB14",
+                  "label": "非座屈チェーン",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "AB15",
+          "label": "摩擦伝動",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AB16",
+              "label": "摩擦ローラー",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AB21",
+          "label": "送り機構",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AB22",
+              "label": "ボールねじ",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AB23",
+              "label": "磁気ねじ",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AB24",
+              "label": "静圧式",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AB26",
+          "label": "リンク機構",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AB27",
+              "label": "平面内リンク",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AB28",
+              "label": "三次元リンク",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AB29",
+              "label": "クランク機構",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AB31",
+          "label": "カム",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AB32",
+              "label": "溝カム",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AB33",
+          "label": "無段変速機",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AB34",
+              "label": "ベルト式ＣＶＴ",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AB35",
+              "label": "トロイダル",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AB36",
+          "label": "ラチェット",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AB37",
+          "label": "磁力の利用",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AB40",
+          "label": "その他＊",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "AC00",
+      "label": "伝動装置の役割＜形式付与＞",
+      "depth": 0,
+      "children": [
+        {
+          "code": "AC01",
+          "label": "回転運動の伝達",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AC02",
+              "label": "変速機能",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AC03",
+                  "label": "無段変速",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "AC04",
+              "label": "正逆転機能",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "AC06",
+          "label": "間欠運動機能",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AC07",
+          "label": "回転運動と往復運動の変換",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AC08",
+          "label": "往復運動の伝達機能",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AC09",
+          "label": "振動の伝達機能",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "AC10",
+          "label": "三次元の運動",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "BA00",
+      "label": "目的＜特徴付与＞",
+      "depth": 0,
+      "children": [
+        {
+          "code": "BA01",
+          "label": "組立製造方法の向上",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BA02",
+              "label": "鋳造",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "BA03",
+                  "label": "高圧鋳造，ダイキャスト",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "BA05",
+              "label": "射出成形",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA06",
+              "label": "転造",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA07",
+              "label": "特に表面仕上げを目的とするもの",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "BA08",
+                  "label": "研削",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "BA09",
+                  "label": "被覆，めっき",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "BA11",
+          "label": "簡素化",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BA12",
+          "label": "小型化，軽量化",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BA13",
+              "label": "軸線方向長さの短縮",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BA14",
+          "label": "精度向上",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BA15",
+              "label": "バックラッシュの減少",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BA16",
+          "label": "強度，耐久性の向上",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BA17",
+              "label": "耐摩耗性の向上",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BA18",
+              "label": "耐腐食性の向上",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BA19",
+          "label": "過負荷防止",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BA21",
+          "label": "安全対策",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BA22",
+          "label": "保守，調整の容易化",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BA23",
+          "label": "異物対策",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BA24",
+              "label": "防塵対策",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BA25",
+          "label": "振動防止",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BA26",
+          "label": "騒音対策",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BA27",
+          "label": "潤滑対策",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BA29",
+          "label": "運動モードの切換",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BA31",
+          "label": "効率向上",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BA32",
+              "label": "摺動抵抗減少",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BA33",
+          "label": "熱対策",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BA35",
+          "label": "操作性",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BA37",
+          "label": "負荷容量のアップ",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BA40",
+          "label": "その他＊",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "CA00",
+      "label": "歯車等往復運動と非無限回転運動の変換装置",
+      "depth": 0,
+      "children": [
+        {
+          "code": "CA01",
+          "label": "特徴となる伝動手段＊",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CA02",
+              "label": "可撓部材",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CA03",
+                  "label": "チェーン",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "CA04",
+                      "label": "非座屈チェーン",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "CA06",
+                  "label": "ベルト",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CA07",
+                  "label": "無端可撓部材",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CA08",
+                  "label": "複数の可撓部材",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "CA12",
+              "label": "摩擦ローラ",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CA13",
+                  "label": "円筒形摩擦ローラ",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CA14",
+                  "label": "複数のローラ",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "CA15",
+              "label": "ラックピニオン",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CA16",
+                  "label": "複数のラック",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CA17",
+                  "label": "複数のピニオン",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CA18",
+                  "label": "曲線型ラック",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "CA19",
+                      "label": "可撓型ラック",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CA21",
+          "label": "特徴となる目的＊",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CA22",
+              "label": "可撓部材の張力調整",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CA23",
+              "label": "可変速",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CA24",
+              "label": "摩擦部材への与圧",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CA25",
+              "label": "噛み合いの保持",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CA26",
+              "label": "噛み合いの逃げ",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CA31",
+          "label": "特徴となる細部＊",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CA32",
+              "label": "往復運動体に対する可撓部材の固定",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CA33",
+              "label": "回転運動体に対する可撓部材の巻掛け，固定",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CA34",
+              "label": "回転運動体の構造",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CA35",
+              "label": "回転運動体のケーシングへの取付",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CA36",
+              "label": "ラック，ピニオン等の歯形",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CB00",
+      "label": "リンク，レバー等による伝動装置の特徴",
+      "depth": 0,
+      "children": [
+        {
+          "code": "CB01",
+          "label": "特徴となる伝動手段＊",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CB02",
+              "label": "リンク",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CB03",
+                  "label": "３次元リンク",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "CB04",
+                      "label": "パラレルリンク",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "CB06",
+              "label": "クランク",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CB11",
+          "label": "特徴となる目的＊",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CB12",
+              "label": "変位拡大縮小",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CB14",
+              "label": "回転運動と往復運動の変換に特徴",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CB15",
+              "label": "往復運動の伝達に特徴",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CB16",
+                  "label": "平行運動",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CB17",
+                  "label": "直線運動",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "CB18",
+              "label": "振動の伝達に特徴",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CB20",
+              "label": "回転運動の伝達に特徴",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CB22",
+              "label": "クランク機構等の行程調整に特徴",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CB23",
+              "label": "特に，増力を目的とするもの",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CB24",
+              "label": "特に，伝動の係脱を目的とするもの",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CB26",
+          "label": "リンク機構の自由度",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CB27",
+              "label": "１自由度",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CB28",
+              "label": "２自由度以上",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CB30",
+              "label": "２つ以上の独立の運動を１つに統合",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CB31",
+          "label": "リンク機構の入力",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CB32",
+              "label": "１入力",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CB33",
+              "label": "複数入力",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CB41",
+          "label": "特徴となる細部＊",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CB42",
+              "label": "バネの利用",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CB43",
+              "label": "カム利用",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CB44",
+              "label": "偏心輪利用",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CB45",
+              "label": "ねじ軸利用",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CB46",
+              "label": "リンク等の弾性変形の利用",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CC00",
+      "label": "カム等による伝動装置の特徴",
+      "depth": 0,
+      "children": [
+        {
+          "code": "CC01",
+          "label": "特徴となる伝動手段＊",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CC02",
+              "label": "回転運動伝達用",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CC03",
+                  "label": "両回転部材の軌道に案内される中間部材",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "CC04",
+                      "label": "中間部材がボールであるもの",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "CC05",
+                      "label": "案内溝の形状に特徴のあるもの",
+                      "depth": 5,
+                      "children": [
+                        {
+                          "code": "CC06",
+                          "label": "サイクロイド系曲線",
+                          "depth": 6,
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "CC12",
+              "label": "回転，振動，往復運動の変換",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CC13",
+                  "label": "回転体の外周にカム面を持つもの",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "CC14",
+                      "label": "複数のカム溝を持つもの",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "CC15",
+                      "label": "中間部材を持つもの",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "CC16",
+                  "label": "回転体の端面にカム面を持つもの",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CC21",
+          "label": "特徴となる目的＊",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CC22",
+              "label": "間欠機能",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CC23",
+              "label": "３次元的な動きに特徴",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CC24",
+              "label": "自動反転",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CC25",
+              "label": "カムの接触保持",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CC31",
+          "label": "特徴となる細部＊",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CC32",
+              "label": "弾性変形を利用するもの",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CC33",
+              "label": "カムフォロアーに特徴を有するもの",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CC34",
+              "label": "カムの幾何学的な形状に特徴を有するもの",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CD00",
+      "label": "送り機構の特徴",
+      "depth": 0,
+      "children": [
+        {
+          "code": "CD01",
+          "label": "特徴となる伝動手段＊",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CD02",
+              "label": "ねじ",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CD03",
+                  "label": "静圧ねじ",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "CD04",
+              "label": "循環ボール式",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CD05",
+                  "label": "特にボール循環路の軌跡に特徴",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CD06",
+                  "label": "チューブ式",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CD07",
+                  "label": "駒式",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CD08",
+                  "label": "エンドプレート式",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CD09",
+                  "label": "ガイドプレート式",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "CD12",
+              "label": "非循環ボール式",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CD13",
+                  "label": "保持器",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "CD14",
+              "label": "ローラ",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CD16",
+              "label": "磁気",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CD21",
+          "label": "特徴となる運動形式＊",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CD22",
+              "label": "ねじ回転，ナット進退",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CD23",
+              "label": "ねじ進退，ナット回転",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CD24",
+              "label": "複合形態",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CD25",
+              "label": "スプライン軸と協働するもの",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CD26",
+          "label": "特徴となる材料",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CD27",
+              "label": "ねじ又はナットの材料",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CD28",
+                  "label": "アルミニウム合金",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "CD29",
+              "label": "ボールの材料",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CD32",
+              "label": "潤滑剤，被覆剤",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CD33",
+                  "label": "自己潤滑材料",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CD34",
+          "label": "防振またはガイド",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CD35",
+              "label": "送り機構全体の防振またはガイド",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CD36",
+                  "label": "ねじ軸に中間ガイドを設けるもの",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CD37",
+                  "label": "特に共振防止を目的とするもの",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CD38",
+                  "label": "ガイド用と送り用でボールを共有するもの",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "CD42",
+              "label": "ボールの防振または騒音防止",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CD43",
+                  "label": "チューブまたはその周辺の対策",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CD44",
+          "label": "その他の細部",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CD45",
+              "label": "ねじ軸に特徴のあるもの",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CD46",
+                  "label": "磁気ねじ軸に特徴のあるもの",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CD47",
+                  "label": "ねじ溝に特徴のあるもの",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CD48",
+                  "label": "複数のねじ軸を持つもの",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "CD49",
+                      "label": "複数のねじ軸を並列に配置したもの",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "CD50",
+                      "label": "複数のねじ軸を直列に連結したもの",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "CD53",
+                  "label": "ねじ軸が片持のもの",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "CD54",
+              "label": "ナットに特徴のあるもの",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CD55",
+                  "label": "磁気ナットに特徴のあるもの",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CD56",
+                  "label": "早送りを可能とするもの",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CD57",
+                  "label": "ナットの移動体への取付に特徴のあるもの",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CD58",
+                  "label": "遊星ねじ付きナット",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CD59",
+                  "label": "ねじ軸に係合するピン",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "CD60",
+              "label": "ボールを予圧するもの",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CD62",
+              "label": "ボールに特徴のあるもの",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CD63",
+                  "label": "ボール間に間隔体を持つもの",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "CD64",
+              "label": "回り止めに特徴のあるもの",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CD65",
+                  "label": "回り止めを解除できるもの",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "CD66",
+              "label": "ねじ機構の密封",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CD67",
+                  "label": "ねじ軸に係合する密封体",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "CD68",
+              "label": "異物対策",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CD69",
+                  "label": "異物除去機能を有するもの",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "CD72",
+              "label": "冷却",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CD73",
+                  "label": "ナットに冷却機能を持たせたもの",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "CD75",
+              "label": "潤滑",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CD77",
+              "label": "過負荷吸収のための機構",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CD79",
+              "label": "停止または自動反転のための機構",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CD80",
+              "label": "落下防止",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CE00",
+      "label": "間欠機構の特徴",
+      "depth": 0,
+      "children": [
+        {
+          "code": "CE01",
+          "label": "特徴となる伝動形式＊",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CE02",
+              "label": "欠歯歯車",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CE03",
+              "label": "駆動ピンが従動体のスロットに係合するもの",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CE04",
+                  "label": "ゼネバ機構",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "CE05",
+              "label": "カム",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CE06",
+                  "label": "パラレルカム",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CE07",
+                  "label": "グロボイダルカム",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CE11",
+          "label": "特徴となる目的＊",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CE12",
+              "label": "噛み合いの容易化",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CE13",
+              "label": "複合運動",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CE21",
+          "label": "特徴となる細部＊",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CE22",
+              "label": "欠歯歯車の形状",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CE23",
+                  "label": "噛み合い始めの歯",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CE24",
+                  "label": "スリットを有するもの",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "CE25",
+              "label": "カムの形状の特徴",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CF00",
+      "label": "過負荷防止機構の特徴",
+      "depth": 0,
+      "children": [
+        {
+          "code": "CF01",
+          "label": "過負荷により相対的に変位する係合部をもつ",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CF02",
+              "label": "係合部の構造",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CF03",
+                  "label": "摩擦係合",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "CF04",
+                      "label": "形状",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "CF05",
+                      "label": "材料",
+                      "depth": 5,
+                      "children": [
+                        {
+                          "code": "CF06",
+                          "label": "係合部材が弾性を有するもの",
+                          "depth": 6,
+                          "children": [
+                            {
+                              "code": "CF07",
+                              "label": "コイルばね",
+                              "depth": 7,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "code": "CF12",
+                  "label": "凹凸係合",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "CF13",
+                      "label": "形状",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "CF14",
+                      "label": "材料",
+                      "depth": 5,
+                      "children": [
+                        {
+                          "code": "CF15",
+                          "label": "係合部材が弾性を有するもの",
+                          "depth": 6,
+                          "children": [
+                            {
+                              "code": "CF16",
+                              "label": "歯車の弾性変形",
+                              "depth": 7,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "code": "CF17",
+                      "label": "球状体（ボール）",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "CF18",
+                      "label": "揺動部材",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "CF20",
+                  "label": "磁気係合",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CF21",
+          "label": "過負荷により破損すべき部材を有するもの",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CF22",
+              "label": "シャーピン",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CF23",
+              "label": "溶断",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CF24",
+              "label": "破損部の脱落，散逸の防止",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CF25",
+          "label": "係合部，破損部の位置，場所",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CF26",
+              "label": "半径方向",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CF27",
+              "label": "軸線方向",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CF28",
+              "label": "斜め方向（テーパ）",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CF29",
+              "label": "防止部が複数箇所",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CF31",
+          "label": "係合部の押圧（締付け）手段",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CF32",
+              "label": "弾性部材",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CF33",
+                  "label": "バネ",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "CF34",
+                      "label": "コイルバネ",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "CF35",
+                      "label": "渦巻バネ",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "CF36",
+                      "label": "線細工バネ",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "CF37",
+                      "label": "板（リーフ）バネ",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "CF38",
+                      "label": "サラバネ（皿ばね）",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CF41",
+          "label": "過負荷の検知",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CF42",
+              "label": "変位の検知",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CF43",
+                  "label": "軸方向変位の検知",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CF44",
+                  "label": "半径方向変位の検知",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "CF45",
+              "label": "張力の検知",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CF47",
+              "label": "破損の検知",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CF49",
+              "label": "動力源における検知",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CF51",
+          "label": "直線運動の過負荷防止",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CF60",
+          "label": "他の過負荷防止＊",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "CG00",
+      "label": "その他の機械的伝動装置の組み合せの特徴",
+      "depth": 0,
+      "children": [
+        {
+          "code": "CG01",
+          "label": "歯車伝動手段を有するもの＊",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CG02",
+              "label": "遊星歯車を有するもの",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CG03",
+                  "label": "シンプル型",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CG04",
+                  "label": "リングギヤなし",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CG05",
+                  "label": "サンギヤなし",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CG06",
+                  "label": "ダブルピニオン型",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CG07",
+                  "label": "ラビニヨー型",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CG12",
+                  "label": "遊星歯車のセット数",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "CG13",
+                      "label": "１セット",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "CG14",
+                      "label": "２セット",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "CG15",
+                      "label": "３セット",
+                      "depth": 5,
+                      "children": []
+                    },
+                    {
+                      "code": "CG16",
+                      "label": "４セット以上",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "CG17",
+              "label": "差動歯車を有するもの",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CG18",
+              "label": "ラック，ピニオンを有するもの",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CG19",
+              "label": "ウオーム，ウオームホイールを有するもの",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CG22",
+              "label": "セクターギヤ，欠歯歯車を有するもの",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CG23",
+              "label": "カムギヤを有するもの",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CG31",
+          "label": "無段変速機を有するもの",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CG32",
+              "label": "１個の無段変速機（注）",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CG33",
+              "label": "２個の無段変速機（注）",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CG34",
+                  "label": "直列",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CG35",
+                  "label": "並列",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "CG36",
+              "label": "３個以上の無段変速機（注）",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CG37",
+              "label": "ベルト，チェーン式",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CG38",
+              "label": "トロイダル",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CG39",
+              "label": "リングコーン",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CG42",
+              "label": "その他の摩擦式無段変速機",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CG44",
+              "label": "トルクコンバータ",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CG46",
+              "label": "ＨＳＴ",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CG52",
+              "label": "無段変速機と並列の伝動手段",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CG53",
+                  "label": "低速が無段変速機",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CG54",
+                  "label": "低速が並列の伝動手段",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CG55",
+                  "label": "高速が無段変速機",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CG56",
+                  "label": "高速が並列の伝動手段",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CG57",
+                  "label": "後進が無段変速機",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "CG58",
+                  "label": "後進が並列の伝動手段",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CG61",
+          "label": "ワンウエイクラッチを有するもの",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CG62",
+              "label": "１個",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CG63",
+              "label": "２個",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CG64",
+              "label": "３個以上",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CG65",
+          "label": "複数の入力軸を有するもの",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CG66",
+              "label": "２入力軸",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CG67",
+              "label": "３入力軸以上",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CG68",
+              "label": "手動入力軸",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CG71",
+          "label": "複数の出力軸を有するもの",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CG72",
+              "label": "２出力軸",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CG73",
+              "label": "３出力軸以上",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CG74",
+              "label": "出力軸の選択手段を有するもの",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CG75",
+                  "label": "首振り式歯車",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CG81",
+          "label": "駆動源",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CG82",
+              "label": "エンジン",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CG83",
+              "label": "モータ",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CG84",
+              "label": "人力",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CG85",
+          "label": "エンジンと関連する技術",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CG86",
+              "label": "エンジンブレーキ",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CG87",
+              "label": "エンジンの過回転の防止",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CG88",
+              "label": "エンジンの吹き上げの防止",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CG91",
+          "label": "故障に関する技術",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CG95",
+          "label": "歯車摩擦伝動，リンク，レバー，カム組合せ",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    }
+  ]
+}

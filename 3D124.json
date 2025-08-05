@@ -1,0 +1,996 @@
+{
+  "overall_code": "3D124",
+  "tree": [
+    {
+      "code": "AA00",
+      "label": "操作部材の種類（形式付与）",
+      "depth": 0,
+      "children": [
+        {
+          "code": "AA01",
+          "label": "複数の操作部材を有するもの（ＡＡ１１－４１にも付与）",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AA02",
+              "label": "別個のブレーキに作用するもの",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AA03",
+                  "label": "左右のブレーキにそれぞれ作用するもの",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "AA04",
+              "label": "同一のブレーキに作用するもの",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AA05",
+              "label": "運転席以外からも操作可能としたもの",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AA06",
+                  "label": "助手席",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AA07",
+                  "label": "車室空間外",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AA08",
+                  "label": "遠隔操作するもの",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "AA11",
+          "label": "手で操作するもの",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AA12",
+              "label": "揺動レバー",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AA13",
+                  "label": "二輪車用",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "AA14",
+              "label": "ステッキ",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "AA15",
+              "label": "スイッチ",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AA16",
+                  "label": "押ボタン",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AA17",
+                  "label": "タッチセンサ、タッチパネル",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "AA22",
+              "label": "ステアリングホイールにより制動",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AA23",
+                  "label": "ステアリングホイールの押し引き",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "AA24",
+                  "label": "ステアリングホイールに設けたスイッチ等",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "AA31",
+          "label": "足で操作するもの",
+          "depth": 2,
+          "children": [
+            {
+              "code": "AA32",
+              "label": "ペダル",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "AA33",
+                  "label": "踏面が枢軸部より下に位置するもの",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "AA34",
+                      "label": "枢軸部と踏面との間において被制御部材に連結されているもの",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "AA35",
+                  "label": "踏面が枢軸部より上に位置するもの",
+                  "depth": 4,
+                  "children": [
+                    {
+                      "code": "AA36",
+                      "label": "枢軸部と踏面との間において被制御部材に連結されているもの",
+                      "depth": 5,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "AA37",
+                  "label": "手でも操作できるようにしたもの",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "AA41",
+          "label": "非接触で操作するもの（例、音、動作の検出）",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "BB00",
+      "label": "用途（形式付与）",
+      "depth": 0,
+      "children": [
+        {
+          "code": "BB01",
+          "label": "サービスブレーキ用",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BB02",
+          "label": "パーキングブレーキ用",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BB03",
+          "label": "リターダ用",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BB04",
+          "label": "トレーラブレーキ用",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "BB06",
+          "label": "単一の操作部材によりアクセル、操舵等の他の装置も作動させられるもの",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BB07",
+              "label": "アクセル等との機械的な連繋によるもの",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "BB11",
+          "label": "特定の車種用のもの",
+          "depth": 2,
+          "children": [
+            {
+              "code": "BB12",
+              "label": "乗用車",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BB13",
+              "label": "教習車",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BB14",
+              "label": "作業車両",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "BB15",
+                  "label": "農作業車両",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "BB16",
+                  "label": "フォークリフト",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "BB17",
+              "label": "二輪車、三輪車",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "BB18",
+                  "label": "自転車",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "BB19",
+              "label": "カート",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BB22",
+              "label": "バス",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BB23",
+              "label": "トラック",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "BB24",
+              "label": "連結車両",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CC00",
+      "label": "機能または目的（【～課題】欄以外にも付与、形式付与）",
+      "depth": 0,
+      "children": [
+        {
+          "code": "CC01",
+          "label": "操作力低減",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CC02",
+              "label": "操作をアシストするもの、パワーアシスト",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CC03",
+          "label": "操作抵抗、反力の付与",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CC04",
+          "label": "ヒステリシス付与",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CC06",
+          "label": "操作部材の操作状態と制動力との関係の変更、調整",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CC07",
+              "label": "ゲイン調整",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CC08",
+              "label": "あそび調整",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CC11",
+          "label": "特定の制動制御機能への対応",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CC12",
+              "label": "ブレーキアシスト",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CC13",
+              "label": "回生協調",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CC14",
+              "label": "ブレーキバイワイヤ",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CC15",
+          "label": "操作状態の検出に関するもの",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CC16",
+              "label": "検出精度向上",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CC17",
+              "label": "ゼロ点調整",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CC19",
+          "label": "初動装置の故障検知、機能チェック",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CC20",
+          "label": "フェールセーフ",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CC21",
+          "label": "衝突時のペダルによる乗員負傷の防止",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CC22",
+              "label": "ペダルを離脱させるもの",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CC23",
+              "label": "ペダルを積極的に前方へ移動させるもの",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CC24",
+              "label": "ペダルを積極的に車幅方向へ移動させるもの",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CC25",
+              "label": "ペダルを変形、破断させるもの",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CC26",
+              "label": "負傷防止しつつ衝突後もペダルを操作できるようにしたもの",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CC28",
+          "label": "操作部材のロック、解除に関するもの",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CC29",
+              "label": "二重解除機構、二段階の操作により解除するもの",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CC30",
+              "label": "揺動レバーをロック状態のまま倒すもの",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CC31",
+          "label": "操作性向上",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CC32",
+              "label": "緊急時に操作しやすくすることを目的としたもの",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CC41",
+          "label": "誤操作対策",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CC42",
+              "label": "誤操作防止",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "CC43",
+                  "label": "アクセルとの踏み間違い防止",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "CC44",
+              "label": "操作し忘れ対策",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CC46",
+          "label": "異音、作動音低減（例、ラチェット音低減）",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CC49",
+          "label": "ケーブル、ワイヤの緩み調整",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CC50",
+              "label": "自動的に調整するもの",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CC51",
+          "label": "製造、組立",
+          "depth": 2,
+          "children": [
+            {
+              "code": "CC52",
+              "label": "部品点数削減",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CC53",
+              "label": "加工性向上",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CC54",
+              "label": "組立性向上",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "CC55",
+              "label": "精度に関する課題",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "CC56",
+          "label": "コンパクト化",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CC57",
+          "label": "外観向上",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CC58",
+          "label": "耐久性向上",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "CC59",
+          "label": "メンテナンス性向上",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "DD00",
+      "label": "初動装置の構成、配置（特徴付与）",
+      "depth": 0,
+      "children": [
+        {
+          "code": "DD01",
+          "label": "操作力伝達機構",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DD02",
+              "label": "レバー比構成部",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "DD03",
+                  "label": "リンク機構",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "DD04",
+              "label": "ストロークに応じて入出力比が変化するもの",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DD05",
+              "label": "電子制御により入出力比を変更するもの",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DD06",
+              "label": "ロッド、リンク、ワイヤとの接続部",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "DD08",
+          "label": "操作部材を駆動する装置（例、パワーアシスト用）",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DD09",
+              "label": "モータ",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "DD11",
+          "label": "反力発生装置、ストロークシミュレータ",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DD12",
+              "label": "電子制御により反力特性を変更するもの",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DD13",
+              "label": "反力発生機構",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "DD14",
+                  "label": "弾性力によるもの（ばね、ゴム等）",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DD15",
+                  "label": "流体圧によるもの",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DD16",
+                  "label": "電動力または磁力によるもの",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "DD18",
+              "label": "配置",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "DD19",
+                  "label": "ペダルとマスタシリンダまたは倍力装置との間の操作力伝達経路上に配置されたもの",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DD20",
+                  "label": "操作力伝達経路がないもの、あるか不明なもの",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "DD21",
+          "label": "ストローク規制手段（ストッパ、ダンパ）",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DD22",
+          "label": "振動減衰手段、ダイナミックダンパ",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DD24",
+          "label": "車体との連結、支持",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DD25",
+              "label": "ブーツ",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DD26",
+              "label": "ペダルブラケット",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DD27",
+              "label": "枢軸部、枢軸ピン",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DD28",
+              "label": "摺動部、（並進）スライド部",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "DD29",
+          "label": "レバー、アーム部分",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DD30",
+              "label": "操作時に手、足が触れる部分",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "DD31",
+          "label": "ロック機構、解除機構",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DD32",
+              "label": "ラチェット",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DD33",
+              "label": "ポール、爪部材",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "DD34",
+                  "label": "ポール、爪部材に作用するばね",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "DD35",
+              "label": "解除機構",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "DD36",
+                  "label": "解除ボタン",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DD37",
+                  "label": "リリースロッド",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DD38",
+                  "label": "ペダルのロックを手で解除するもの",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DD39",
+                  "label": "再操作により解除するもの（例、プッシュトゥリリース式）",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "DD40",
+              "label": "トグル機構",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "DD41",
+          "label": "操作部材の操作状態を検出するもの",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DD42",
+              "label": "ストローク、回転角、位置",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DD43",
+              "label": "力、荷重、トルク",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DD44",
+              "label": "操作の有無（例、ストップランプ用）",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "DD46",
+          "label": "左右ブレーキペダル、レバーが連結可能なもの",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DD47",
+              "label": "自動的に連結・連結解除するもの",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "DD48",
+                  "label": "操作部材操作過程において構造上行われるもの",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DD49",
+                  "label": "走行条件に応じた制御によるもの",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "DD51",
+          "label": "操作部材の操作状態を検出する手段の種類、形式",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DD52",
+              "label": "位置センサ（磁気式、光学式等）",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DD53",
+              "label": "歪センサ",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DD54",
+              "label": "オンオフスイッチ",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "DD56",
+          "label": "初動装置の制御、検査のための電子制御装置、電気回路要素",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "code": "DD61",
+          "label": "車体上の配置",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DD62",
+              "label": "アクセルペダルとの関連配置",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DD63",
+              "label": "クラッチペダルとの関連配置",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DD64",
+              "label": "シートとの関連配置",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DD65",
+              "label": "フットレストとの関連配置",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DD66",
+              "label": "ステアリングコラム、シャフトとの関連配置",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DD67",
+              "label": "ステアリングホイールとの関連配置",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DD68",
+              "label": "他のブレーキ装置との関連配置",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "DD69",
+                  "label": "マスタシリンダとの関連配置",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DD70",
+                  "label": "倍力装置との関連配置",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "DD71",
+          "label": "操作部材の相対位置調整",
+          "depth": 2,
+          "children": [
+            {
+              "code": "DD72",
+              "label": "条件に応じて制御により自動的に調整するもの",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DD73",
+              "label": "人の操作に応じてモータ等の動力により調整するもの",
+              "depth": 3,
+              "children": []
+            },
+            {
+              "code": "DD74",
+              "label": "操作部材の位置調整",
+              "depth": 3,
+              "children": [
+                {
+                  "code": "DD75",
+                  "label": "前後、上下、角度調整（例、ペダルハイト調整）",
+                  "depth": 4,
+                  "children": []
+                },
+                {
+                  "code": "DD76",
+                  "label": "左右方向",
+                  "depth": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "DD77",
+              "label": "シート位置を調整することで人と操作部材との相対位置を調整するもの",
+              "depth": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
